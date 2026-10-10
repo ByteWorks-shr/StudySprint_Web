@@ -1,0 +1,1024 @@
+{
+  "tasks": [
+    {
+      "id": "task_starter_1",
+      "userId": "guest_student",
+      "title": "Complete Java JDBC Practical Assignment",
+      "subject": "Java Programming",
+      "topic": "Database Connection & PreparedStatement",
+      "dueDate": "2026-10-11",
+      "priority": "high",
+      "status": "pending",
+      "estimatedMinutes": 60,
+      "createdAt": "2026-10-10T03:42:04.402Z",
+      "updatedAt": "2026-10-10T03:42:04.402Z"
+    },
+    {
+      "id": "task_starter_2",
+      "userId": "guest_student",
+      "title": "Revise Software Engineering Agile Milestones",
+      "subject": "Software Engineering",
+      "topic": "Scrum Sprints & User Stories",
+      "dueDate": "2026-10-12",
+      "priority": "medium",
+      "status": "in_progress",
+      "estimatedMinutes": 45,
+      "createdAt": "2026-10-10T03:42:04.402Z",
+      "updatedAt": "2026-10-10T03:42:04.402Z"
+    },
+    {
+      "id": "task_starter_3",
+      "userId": "guest_student",
+      "title": "Computer Networks TCP/IP 3-Way Handshake Review",
+      "subject": "Computer Networks",
+      "topic": "Transport Layer Protocols",
+      "dueDate": "2026-10-09",
+      "priority": "high",
+      "status": "completed",
+      "completedAt": "2026-10-10T03:42:04.402Z",
+      "estimatedMinutes": 40,
+      "createdAt": "2026-10-08T03:42:04.402Z",
+      "updatedAt": "2026-10-10T03:42:04.402Z"
+    }
+  ],
+  "materials": [
+    {
+      "id": "mat_starter_1",
+      "userId": "guest_student",
+      "title": "Java Exception Handling & Multithreading Guide",
+      "subject": "Java Programming",
+      "topic": "Core OOP & Concurrency",
+      "content": "Comprehensive notes on Checked vs Unchecked Exceptions, try-catch-finally mechanisms, and Thread lifecycle in Java.",
+      "tags": [
+        "Java",
+        "ExamPrep",
+        "Multithreading"
+      ],
+      "createdAt": "2026-10-10T03:42:04.402Z",
+      "updatedAt": "2026-10-10T03:42:04.402Z"
+    }
+  ],
+  "pdfs": [],
+  "syllabi": [
+    {
+      "id": "syl_1791604123467_97js5",
+      "userId": "guest_student",
+      "title": "SBTE Bihar Computer Science & Engineering (5th Semester)",
+      "fileName": "5th-sem-Computer-Science-Engineering-2024 (1).pdf",
+      "fileSize": 2877205,
+      "pageCount": 137,
+      "university": "SBTE Bihar",
+      "course": "Diploma in Computer Science & Engineering",
+      "branch": "Computer Science & Engineering",
+      "semester": "5th Semester",
+      "academicYear": "2024-2025",
+      "extractedText": "--- Page 1 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 1  Curriculum of Diploma Programme  in  Computer Science and Engineering  Department of Science, Technology and Technical Education (DSTTE),  Govt. of Bihar  State Board of Technical Education  (SBTE), Bihar\r\n--- Page 2 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 2  Semester – V Teaching & Learning Scheme  Course Codes  Category of course  CourseTitles  Teaching & Learning Scheme (Hours/Week)  Classroom Instruction (CI)  Lab Instruction  (LI)  Notional Hours  (TW+ SL)  Total Hours  (CI+LI+TW+SL)  Total Credits  (C) L   T  2418501   PCC   Data Communication and  Computer Network  03   -   04   02   09   06  2418502   PCC   Software Engineering   02   01   -   02   05   04  2418503   PEC   Programme Electives* -  Any One  03   -   04   02   09   06  2400504   OEC   Open Electives**/ COE  (Basic - Any One)  03   -   04   02   09   06  2400505   NRC   Entrepreneurship Development & Start-ups  (Common for All Programmes)  -   -   04   02   06   03  2418506   PSI   Summer Internship- II  (After 4 th   Sem) / Industrial Training (Common for all programmes)  -   -   02   04   06   03  2418507   PSI   Minor Project  (Common for all programmes)  -   -   02   02   04   02  Total   11   1   20   16   48   30  Note: Prefix will be added to course code if applicable (T for Theory Paper, P for Practical Paper and S for Term Work)  Legend:  CI:   Classroom Instruction (Includes different instructional/implementation strategies i.e. Lecture (L), Tutorial (T), Case method, Demonstrations, Video demonstration, Problem based learning etc. to deliver theoretical concepts)  LI:   Laboratory Instruction (Includes experiments/practical performances /problem-based experiences in laboratory, workshop, field or other locations using different instructional/Implementation strategies)  Notional Hours: Hours of engagement by learners, other than the contact hours for ensuring learning.  TW:   Term work (includes assignments, seminars, micro projects, industrial visits, any other student activities etc.) SL:   Self Learning, MOOCs, spoken tutorials, online educational resources etc.  C:   Credits = (1 x CI hours) + (0.5 x LI hours) + (0.5 x Notional hours)  *:   Data Science: Data Warehousing and Data Mining / Advanced JAVA Programming  **:   3D Printing & Design /Artificial Intelligence (AI)/ Drone Technology/ Electric Vehicle/ Industrial Automation & Control/ IOT/ Robotics  Note:   TW and SL have to be planned by the teacher and performed by the learner under the continuous guidance and feedback of teacher to ensure outcome of learning.\r\n--- Page 3 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 3  Semester - V Assessment Scheme  Course Codes  Category of course   Course Titles  Assessment Scheme (Marks)  Total Marks (TA+TWA+LA)  Theory Assessment  (TA)  Term work & Self-Learning Assessment  (TWA)  Lab Assessment (LA)  Progressive Theory Assessment  (PTA)  End Theory Assessment  (ETA)  Internal  External  Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA)  2418501   PCC   Data Communication and Computer  Network  30   70   20   30   20   30   200  2418502   PCC   Software Engineering   30   70   20   30   -   -   150  2418503   PEC   Programme Electives*  - Any One  30   70   20   30   20   30   200  2400504   OEC   Open Electives**/ COE  (Basic - Any One)  30   70   20   30   20   30   200  2400505   NRC   Entrepreneurship Development & Start- ups  (Common for All Programmes)  -   -   20   30   20   30   100  2418506   PSI   Summer Internship- II  (After 4 th   Sem) / Industrial Training  (Common for all programmes)  -   -   20   30   20   30   100  2418507   PSI   Minor Project  (Common for all programmes)  -   -   10   15   10   15   50  Total   120   280   130   195   110   165   1000  Note: Prefix will be added to course code if applicable (T for Theory Paper, P for Practical Paper and S for Term Work)  Legend:  PTA:   Progressive Theory Assessment in class room (includes class test, mid-term test and quiz using online/offline modes) PLA:   Progressive Laboratory Assessment (includes process and product assessment using rating Scales and rubrics)  TWA:   Term work & Self Learning Assessment (Includes assessment related to student performance in assignments, seminars, micro projects, industrial visits, self-learning, any other student activities etc.  *:   Data Science: Data Warehousing and Data Mining / Advanced JAVA Programming  **:   3D Printing & Design /Artificial Intelligence (AI)/ Drone Technology/ Electric Vehicle/ Industrial Automation & Control/ IOT/ Robotics  Note:   ETA & ELA are to be carried out at the end of the term/ semester.     Term Work is to be done by the students under the guidance of internal faculty but its assessment will be done   internally (40%)   as well as   externally (60%) . Assessment related to planning and execution of Term Work activities like assignment, micro project, seminar and self-learning is to be done by internal faculty (Internal Assessment) whereas assessment of output/product/ presentation related to these activities will be carried out by external faculty/expert (External Assessment). However, criteria of internal as well as external assessment may vary as per the requirement of respective course. For valid and reliable assessment, the internal faculty should prepare checklist & rubrics for these activities.\r\n--- Page 4 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 1  A)   Course Code   : 2418501(T2418501/P2418501/S2418501)  B)   Course Title   :   Data Communication and Computer Network  C)   Pre- requisite Course(s)   :  D)   Rationale   :  Data   communication and computer networks focuses on efficient and effective communication and sharing of   information,   hardware   resource,   and   other   the   infrastructure   for   global   communication   and collaboration among various devices. It offers the ability for the diploma engineers to select relevant transmission media and observe the function of protocols available at Data link layer, Network layer, Transport layer, and Application layer. It also offers to create FTP and HTTP server.  E)   Course Outcomes (COs):   After the completion of the course, teachers are expected to ensure the accomplishment of following course outcomes by the learners. For this, the learners are expected to perform various activities related to three learning domains (Cognitive, Psychomotor and Affective) in classroom/ laboratory/ workshop/ field/ industry.  After completion of the course, the students will be able to-  CO-1   Choose the appropriate transmission media type based on the needs.  CO-2   Explain the function of Data link layer protocols.  CO-3   Create subnet for given IP  CO-4   Explain the function of Transport layer protocols  CO-5   Create FTP and HTTP server  F)   Suggested Course Articulation Matrix (CAM):  Course Outcomes (COs)  Programme Outcomes (POs)  Programme Specific Outcomes*  (PSOs)  PO-1  Basic and Discipline Specific Knowledge  PO-2  Proble m Analys is  PO-3  Design/ Developme nt of Solutions  PO-4  Engineerin g Tools  PO-5  Engineering Practices for Society, Sustainability and  Environment  PO-6  Project Managemen t  PO-7  Life Long Learni ng  PSO-1   PSO-2  CO-1   1   -   -   -   -   -   1  CO-2   2   2   1   1   -   -   1  CO-3   2   2   1   1   -   -   -  CO-4   2   3   1   1   -   -   -  CO-5   2   3   1   1   -   -   -  Legend:   High (3), Medium (2), Low (1) and No mapping (-)  *   PSOs will be developed by the respective program coordinator at the institute level. As per the latest NBA guidelines, formulating PSOs is optional\r\n--- Page 5 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 2  G)   Teaching & Learning Scheme:  Course Code  Course Title  Scheme of Study  (Hours/Week)  Classroom Instruction  (CI)  Lab Instruction (LI)  Notional Hours (TW+ SL)  Total Hours  (CI+LI+TW+SL)  Total Credits (C)  L   T  2418501  Data communication and Computer  Network  03   -   04   02   09   06  Legend:  CI:   Classroom Instruction (Includes different instructional/implementation strategies i.e. Lecture (L), Tutorial (T), Case method, Demonstrations, Video demonstration, Problem based learning etc. to deliver theoretical concepts)  LI:   Laboratory Instruction (Includes experiments/practical performances /problem-based experiences in laboratory, workshop, field or other locations using different instructional/Implementation strategies)  Notional Hours: Hours of engagement by learners, other than the contact hours for ensuring learning.  TW:   Term Work (includes assignments, seminars, micro projects, industrial visits, any other student activities etc.) SL:   Self Learning, MOOCs, spoken tutorials, online educational resources etc.  C:   Credits = (1 x CI hours) + (0.5 x LI hours) + (0.5 x Notional hours)  Note:   TW and SL have to be planned by the teacher and performed by the learner under the continuous guidance and feedback of teacher to ensure outcome of learning.  H)   Assessment Scheme:  Course Code   Course Title  Assessment Scheme (Marks)  Total Marks (TA+TWA+LA) Theory Assessment (TA)  Term Work & Self-Learning Assessment  (TWA)  Lab Assessment (LA)  Progressive Theory Assessment  (PTA)  End Theory Assessment  (ETA)  Internal  External  Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA)  2418501  Data communicatio  n and Computer  Network  30   70   20   30   20   30   200  Legend:  PTA:   Progressive Theory Assessment in class room (includes class test, mid-term test and quiz using online/offline modes) PLA:   Progressive Laboratory Assessment (includes process and product assessment using rating Scales and rubrics)  TWA:   Term work & Self Learning Assessment (Includes assessment related to student performance in assignments, seminars, micro projects, industrial visits, self-learning, any other student activities etc.  Note:     ETA & ELA are to be carried out at the end of the term/ semester.      Term Work is to be done by the students under the guidance of internal faculty but its assessment will be done   internally (40%)  as well as   externally (60%) . Assessment related to planning and execution of Term Work activities like assignment, micro project, seminar and self-learning is to be done by internal faculty (Internal Assessment) whereas assessment of output/product/ presentation related to these activities will be carried out by external faculty/expert (External Assessment). However, criteria of internal as well as external assessment may vary as per the requirement of respective course. For valid and reliable assessment, the internal faculty should prepare checklist & rubrics for these activities . \r\n--- Page 6 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 3  I)   Course Curriculum Detailing:   This course curriculum detailing depicts learning outcomes at course level and session level and their attainment by the students through Classroom Instruction (CI), Laboratory Instruction (LI), Term Work (SW) and Self Learning (SL). Students are expected to demonstrate the attainment of Theory Session Outcomes (TSOs) and Lab Session Outcomes (LSOs) leading to attainment of Course Outcomes (COs) upon the completion of the course. While curriculum detailing, NEP 2020 related reforms like Green skills, Sustainability, Multidisciplinary aspects, Indian Knowledge System (IKS) and others must be integrated appropriately.  J)   Theory Session Outcomes (TSOs) and Units: T2418501  Major Theory Session Outcomes (TSOs)   Units   Relevant Cos  Number(s)  TSO 1a.   Explain the process of data communication and its components.  TSO 1b.   Explain the following terms in data communication:-  TSO 1c.   Bandwidth, data transmission rate and baud rate.  TSO 1d.   Differentiate between various models of communication and their applications.  TSO 1e.   Differentiate between analog and digital signal transmission and the conversion processes between them.  TSO 1f.   Select relevant type of transmission media depending on requirements.  TSO 1g.   Classify the given networks into LAN and WAN  TSO 1h.   List the different guided Transmission Media and Unguided Transmission Media  TSO 1i.   Identify various Multiplexing and Switching techniques used in digital communication  Unit-1.0 Data Communications and Transmission Media  1.1   Process of data communication and its components: Transmitter, Receiver, Medium, Message, Protocol.  1.2   Protocol, Standard, Standard organization. Bandwidth, Data Transmission Rate, Baud Rate and Bits per second  1.3   Models of Communication (Simplex, Half Duplex, full Duplex)  1.4   Analog Signal and Digital Signal Transmission: Analog to Digital, Digital to Analog Conversion  1.5   Fundamentals of Computer Network: Definition and Need of Computer Network, Application, Network Benefits.  1.6   Classification of Network LAN and WAN  1.7   Network Architecture: Peer to peer, Client Server Network  1.8   Communication Media: guided Transmission Media, Twisted-Pair Cable, Coaxial Cable Fiber- optic Cable  1.9   Unguided Transmission Media, Radio Waves, Microwaves, Infrared, Satellite  1.10   Multiplexing: Frequency-Division Multiplexing,  Time-Division Multiplexing.  CO-1  TSO.2.a Distinguish between error detection and error correction.  TSO.2.b Explain the coding techniques for data integrity.  TSO.2.c Calculate cyclic codes and checksum for error detection.  TSO.2.d Recognize the importance of framing in data transmission.  TSO.2.e Explain the techniques for error control in data communication.  Unit 2.0 Data Link Layer  2.1   Introduction : Types of Errors, Redundancy, Detection Versus Correction, Coding  2.2   Block coding : Error Detection, Error Correction Hamming Distance, Minimum Hamming Distance  2.3   Cyclic codes : Cyclic Redundancy Check, Polynomials, Cyclic Code Analysis, CHECKSUM  2.4   Framing:   Fixed-Size Framing, Variable-Size  Framing  CO-2\r\n--- Page 7 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 4  Major Theory Session Outcomes (TSOs)   Units   Relevant Cos  Number(s)  TSO.2.f Explain the function of Noisy and Noiseless channel protocols  TSO.2.g Explain the function of medium access control protocols.  TSO.2.h Explain the function of different channel partitioning protocols.  TSO.2.i Describe different types of Ethernets.  TSO.2.j Differentiate between various network connecting devices working at different TCP/IP layers.  2.5   Flow and error control:   Flow Control, Error Control  2.6   Noiseless channels:   Simplest Protocol, Stop- and-Wait Protocol  2.7   Noisy channels : Stop-and-Wait Automatic Repeat Request, Go-Back-N Automatic Repeat Request, Selective Repeat Automatic Repeat Request, Piggybacking.  2.8   Point-to-point protocol  2.9   Random access : ALOHA, Carrier Sense Multiple Access (CSMA), Carrier Sense Multiple Access with Collision Detection (CSMACD), Carrier Sense Multiple Access with Collision Avoidance (CSMACA)  2.10   Channelization : Frequency-Division Multiple Access (FDMA), Time-Division Multiple Access (TDMA), Code-Division Multiple Access (CDMA)  2.11   Ethernet : Bridged Ethernet, Switched Ethernet Fast Ethernet, Gigabit Ethernet  2.12   Connecting devices : HUBs, Two-Layer Switches  Routers, Three-Layer Switches, Gateway  TSO 3a.   Write different notations for IPv4 addresses.  TSO 3b.   Differentiate between classful and classless addressing.  TSO 3c.   Explain the function of Network Address Translation (NAT).  TSO 3d.   Explain process of fragmentation in network layer protocols.  TSO 3e.   Explain the functioning of ARP and RARP protocols.  TSO 3f.   Explain the mechanism of packet receiving and forwarding in routing process.  TSO 3g.   Differentiate between unicast and multicast routing protocols.  Unit 3.0 Network Layer  3.1   IPv4 addresses : Address Space, Notations, Classful Addressing, special case IP addresses, subnet, supernet, Classless Addressing, Network Address Translation (NAT), Datagram  3.2   Fragmentation, Checksum, Options  3.3   Introduction to IPV6 : Advantages, Tunneling  3.4   Address mapping:   Logical to Physical Address: ARP, Mapping Physical to Logical Address: RARp.  3.5   Router Forwarding table, and Routing : Function of unicast and multicast routing protocols  CO-3  TSO 4a.   Explain client/server paradigm in process- to-process delivery.  TSO 4b.   Explain the concepts of multiplexing and demultiplexing at transport layer.  TSO 4c.   Differentiate between connectionless and connection-oriented services.  TSO 4d.   Differentiate between reliable and unreliable communication.  TSO 4e.   Differentiate the functioning of TCP and  UDP protocol.  Unit 4.0 Transport Layer  4.1   Process to Process Delivery: - Client/Server Paradigm, Multiplexing and Demultiplexing, Connectionless Versus Connection-Oriented Service, Reliable Versus Unreliable  4.2   User datagram protocol (UDP): -Well-Known Ports for UDP, User Datagram, Checksum, UDP Operation, Use of UDP  CO-4\r\n--- Page 8 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 5  Major Theory Session Outcomes (TSOs)   Units   Relevant Cos  Number(s)  TSO 4f.   Explain flow control mechanisms in TCP.  TSO 4g.   Differentiate between open-loop and closed-loop congestion control.  4.3   TCP: -TCP Services Features, Segment, A TCP Connection, Flow Control, Error Control  4.4   Congestion Control: - Open-Loop Congestion Control, Closed-Loop Congestion Control  TSO 5a.   Explain the functioning of DNS protocol.  TSO 5b.   Differentiate between recursive and iterative domain name resolution.  TSO 5c.   Explain the concept of remote logging using TELNET.  TSO 5d.   Explain the roles of User Agent, Message Transfer Agent (SMTP), and Message Access Agent (POP and IMAP).  TSO 5e.   Explain function of File Transfer Protocol (FTP) for file transfer.  TSO 5f.   Differentiate between HTTP persistent and non-persistent connections.  TSO 5g.   Explain the role of proxy servers in HTTP.  TSO 5h.   Explain the functioning of DHCP  Unit 5.0 Application Layer  5.1   Distribution of name space : Hierarchy of Name Servers, Root Server, Primary and Secondary Servers  5.2   DNS in the internet:   - Generic Domains, Country Domains, Inverse Domain  5.3   Resolution : -Resolver, Mapping Names to Addresses, Mapping Address to Names, Recursive Resolution, Iterative Resolution, Caching  5.4   WWW: -   ARCHITECTURE, Client (Browser), Server, Uniform Resource Locator, Cookies  5.5   HTTP: - HTTP Transaction, Persistent Versus Nonpersistent Connection, Proxy Server  5.6   Dynamic Host Configuration Protocol (DHCP)  5.7   Remote logging: -   TELNET  5.8   Electronic mail: -   ELECTRONIC MAIL, Architecture, User Agent, Message Transfer Agent: SMTP, Message Access Agent: POP and IMAP, Web-Based Mail  5.9   File transfer: - File Transfer Protocol (FTP)  CO-5  Note:   One major TSO may require more than one Theory session/Period  K)   Suggested Laboratory (Practical) Session Outcomes (LSOs) and List of Practical: P2418501  Practical/Lab Session Outcomes (LSOs)   S.  No.   Laboratory Experiment/Practical Titles  Relevan t COs Number  (s)  LSO1.1   Recognize different Networking devices such LAN adapter, Hub, Switches, Routers.  LSO1.2   Prepare the UTP cable for cross and direct connection.  1.  1.1   Identify different Networking devices  1.2   Prepare different types of UTP cable  CO-1  LSO.2.1   Create Star topology using network devices, cables, and Computers.  LSO.2.2   Configure wireless NIC and transfer files  between systems in Wireless  2.  2.1   Create a network using Star topology.  2.2   Configure wireless NIC and transfer files between systems in Wireless network.  CO-2  LSO.3.1   Configure Host IP, Subnet Mask and Default Gateway in a System.  LSO.3.2   Establish Peer to Peer network connection without Switch.  3.  3.1   Configure IP address using Network and Internet Setting in windows.  3.2   Establish Peer to Peer network connection using cross cable.  CO-3\r\n--- Page 9 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 6  Practical/Lab Session Outcomes (LSOs)   S.  No.   Laboratory Experiment/Practical Titles  Relevan t COs Number  (s)  LSO.4.1   Capture packet and analysis header using network simulator.  LSO.4.2   Configure Telnet Settings.  4   4.1   Capture packet and analysis header using network simulator.  4.2   Perform remote login using Telnet.  CO-4  LSO.5.1   Create HTTP server  LSO.5.2   Create FTP server  5.   5.1   Create HTTP sever  5.2   Create FTP server  CO-5  Note:   in addition to above listed practical, students are suggested to practice all the examples covered by the teacher during theory sessions.  L)   Suggested Term Work and Self Learning: S2418501  a.   Assignments : Questions/Problems/Numerical/Exercises to be provided by the course teacher in line with the targeted COs.  b.   Micro Projects:  1.   Develop a basic chat application that allows users to communicate over a local network.  2.   Create a tool that monitors network bandwidth usage in real-time.  3.   Create a simple remote desktop application that allows users to control a computer remotely over the network.  c.   Other Activities :  1.   Use network simulation tools like Cisco Packet Tracer, GNS3, or NS-3 to create and simulate network scenarios  2.   Use packet capturing tools like Wireshark to capture and analyze network traffic in real-time.  3.   Join online CTF challenges related to network security.  4.   Study the function of all layers in TCP/IP suit.  5.   Study all protocols of all layers of TCP/IP Suit.  d.   Self-Learning Topics :  1.   Learn about the virtualization of network functions, transforming traditionally hardware-based network functions into software.  2.   Explore advanced concepts in QoS and QoE, including techniques for ensuring a high-quality user experience in networked applications.  3.   Learn socket programming for process to process communication.  4.   Learn different routing protocols.\r\n--- Page 10 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 7  M)   Suggested Course Evaluation Matrix:   course teacher has to decide and usethe appropriate assessment strategy and its weightage in theory, laboratory and Term work for ensuring CO attainment. The response/performance of the student in each of these designed activities is to be used to calculate   CO attainment .  COs  Course Evaluation Matrix  Theory Assessment  (TA)**   Term Work Assessment (TWA)   Lab Assessment (LA) #  Progressiv e   Theory Assessme nt (PTA)  Class/Mid  Sem Test  End Theory Assessment (ETA)  Term Work& Self Learning Assessment   Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA) Assignments   Micro Projects  Other Activities*  CO-1   15%   15%   15%   20%   20%   15%   15%  CO-2   20%   20%   20%   20%   20%   20%   20%  CO-3   25%   25%   25%   20%   20%   20%   20%  CO-4   20%   20%   20%   20%   20%   20%   20%  CO-5   20%   20%   20%   20%   20%   25%   25%  Total Marks  30   70   20   20   10   20   30  50  Legend:  *:   Other Activities include self- learning, seminar, visits, surveys, product development, software development etc.  **:   Mentioned under point- (N) #:   Mentioned under point-(O)  Note:  •   The percentage given are approximate  •   In case of Micro Projects and End Laboratory Assessment (ELA), the achieved marks will be equally divided in all those COs mapped with total experiments.  •   For CO attainment calculation indirect assessment tools like course exit survey need to be used which comprises of questions related to achievement of each COs.  N)   Suggested Specification Table for End Semester Theory Assessment:   Specification table represents the reflection of sample representation of assessment of cognitive domain of full course.  Unit Title and Number   Total Classroom Instruction  (CI)  Hours  Relevant COs Number(s)  Total Marks  ETA (Marks)  Remember (R)  Understanding (U)  Application & above (A)  Unit-1.0   Data Communications and Transmission  Media  07   CO-1   10   4   3   3  Unit 2.0   Data Link Layer   10   CO-2   14   4   4   6  Unit3.0   Network Layer   15   CO-3, CO-4   18   6   4   8  Unit 4.0   Transport Layer   8   CO-5   14   3   5   6  Unit 5.0   Application Layer   8   CO-5   14   3   5   6  Total   48   -   70   20   21   29  Note:   Similar table can also be used to design class/mid-term/ internal question paper for progressive assessment.\r\n--- Page 11 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 8  O)   Suggested Specification Table for Laboratory (Practical):  S.  No.   Laboratory Practical Titles  Relevant COs Number(s)  PLA/ELA  Performance   Viva  -  Voce (%)  PRA* (%)  PDA** (%)  1.   Identify different Networking devices.   CO-1   40   50   10  2.   Prepare different types of UTP cable.   CO-1   40   50   10  3.   Connect computers in Star topologies.   CO-1   40   50   10  4.   Configure wireless NIC and transfer files between systems in Wireless.  CO-2   30   60   10  5.   Configure Network and Internet Setting.   CO-2   40   50   10  6.   Establish Peer to Peer network connection using cross cable.   CO-2   50   40   10  7.   Capture packet and analysis header using network simulator.   CO-3   50   40   10  8.   Perform remote login using Telnet.   CO-5   50   40   10  9.   Create HTTP sever   CO-5   70   20   10  10.   Create FTP server   CO-5   50   40   10  Legend:  PRA * : Process Assessment PDA ** : Product Assessment  Note:   This table can be used for both end semester as well as progressive assessment of practical. Rubrics need to be prepared by the course teacher for each experiment/practical to assess the student performance.  P)   Suggested Instructional/Implementation Strategies:   Different Instructional/ Implementation Strategies may be appropriately selected, as per the requirement of the content/outcome. Some of them are Improved Lecture, Tutorial, Case Method, Group Discussion, Industrial visits, Industrial Training, Field Trips, Portfolio Based, Learning, Role Play, Live Demonstrations in Classrooms, Lab, Field Information and Communications Technology (ICT)Based Teaching Learning, Blended or flipped mode, Brainstorming, Expert Session, Video Clippings, Use of Open Educational Resources (OER), MOOCs etc.  Q)   List of Major Laboratory Equipment, Tools and Software:  S.  No.  Name of Equipment, Tools and Software  Broad Specifications   (No Generic)  Give basic configuration or Latest  Relevant  Experiment/Practical Number  1   Computer System   Any General-purpose Computer   All  2   Simulator   Windump, cisco packet tracer, wire-shark, optional   All  3   Networking Device and Media   Switch and Router   All\r\n--- Page 12 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 9  R)   Suggested Learning Resources:  (a)   Books :  S.  No.  Titles   Author(s)   Publisher and Edition with  ISBN  1   Computer Networking A top down Approach  F.Kurose   Pearson, ISBN-10: 9780133594140 ISBN-13:978-0133594140  2   Computer Networks and Internet   D.E. Comer   Pearson,  ISBN-10:0133587932 ISBN-13:978-0133587937  3   Wireless Communications: Principles and  Practice, 2nd edition  T. Rappaport   Prentice Hall,  ISBN-10: 9788131731864 ISBN-13:978-8131731864  4   Wireless   Communication   and Networking  John W. Mark, Weihua Zhuang  Prentice Hall,  ISBN-10: 0130409057  ISBN-13:978-0130409058  5   Data Communications and Networking   Behrouz A Forouzan   McGraw Hill,  ISBN-10: 9780070634145 ISBN-13:978-0070634145  (b)   Open Educational Resources (OER):  1.   https:// www.youtube.com/user/NetworKingInc  2.   https://www.wiresharktraining.com/  3.   https://www.netacad.com/  4.   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/  5.   https://www.edx.org/  6.   https://www.coursera.org/  (c)   Others: (If any)  1.   Learning Header files  2.   Lab Manuals  ******\r\n--- Page 13 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 1  A)   Course Code   : 2418502(T2418502/S2418502)  B)   Course Title   :   Software Engineering  C)   Pre- requisite Course(s)   :  D)   Rationale   :  Software Engineering is a systematic approach for software design, development, testing and maintenance by incorporating principles, techniques, and practices. Furthermore, software engineering helps to manage the costs, risks and schedule of the software development process. The goal of software engineering is to produce software that is efficient, easy to use, and maintain so as to fulfil the current and futuristic requirement of the user.  Through this course, student can develop abilities to build a framework to construct good quality software products and ensuring their reliability. Also, students can combine their domain-specific expertise with programming abilities to create superior software products .  E)   Course Outcomes (COs):   After the completion of the course, teachers are expected to ensure the accomplishment of following course outcomes by the learners. For this, the learners are expected to perform various activities related to three learning domains (Cognitive, Psychomotor and Affective) in classroom/ laboratory/ workshop/ field/ industry.  After completion of the course, the students will be able to-  CO-1   Choose suitable Software process model for software development.  CO-2   Prepare software requirement specifications (SRS) for a given problem.  CO-3   Construct data designs using different software models.  CO-4   Evaluate size and cost of software product.  CO-5   Plan software testing for quality assurance  CO-6   Prepare plan to schedule and track the progress of a given project using project management techniques  F)   Suggested Course Articulation Matrix (CAM):  Course Outcomes (COs)  Programme Outcomes (POs)  Programme Specific Outcomes*  (PSOs)  PO-1  Basic and Discipline Specific Knowledge  PO-2  Problem Analysis  PO-3  Design/ Development of Solutions  PO-4  Engineering Tools  PO-5  Engineering Practices for Society, Sustainability and  Environment  PO-6  Project Management  PO-7  Life Long Learnin g  PSO-1   PSO-2  CO-1   1   -   -   -   -   -   1  CO-2   1   2   1   1   -   -   1  CO-3   2   2   1   1   -   -   -  CO-4   1   2   1   1   -   -   -  CO-5   2   1   2   1   -   -   1  CO-6   1   1   2   2   -   2   1  Legend: High (3), Medium (2), Low (1) and No mapping (-)  *   PSOs will be developed by the respective program coordinator at the institute level. As per the latest NBA guidelines, formulating PSOs is optional\r\n--- Page 14 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 2  G)   Teaching & Learning Scheme:  Course Code  Course Title  Scheme of Study  (Hours/Week)  Classroom Instruction  (CI)  Lab Instruction  (LI)  Notional Hours (TW+ SL)  Total Hours  (CI+LI+TW+SL)  Total Credits (C)  L   T  2418502   Software  Engineering   02   01   -   02   05   04  Legend:  CI:   Classroom Instruction (Includes different instructional/implementation strategies i.e. Lecture (L), Tutorial (T), Case method, Demonstrations, Video demonstration, Problem based learning etc. to deliver theoretical concepts)  LI:   Laboratory Instruction (Includes experiments/practical performances /problem-based experiences in laboratory, workshop, field or other locations using different instructional/Implementation strategies)  Notional Hours: Hours of engagement by learners, other than the contact hours for ensuring learning.  TW:   Term Work (includes assignments, seminars, micro projects, industrial visits, any other student activities etc.) SL:   Self Learning, MOOCs, spoken tutorials, online educational resources etc.  C:   Credits = (1 x CI hours) + (0.5 x LI hours) + (0.5 x Notional hours)  Note:   TW and SL have to be planned by the teacher and performed by the learner under the continuous guidance and feedback of teacher to ensure outcome of learning.  H)   Assessment Scheme:  Course Code   Course Title  Assessment Scheme (Marks)  Total Marks (TA+TWA+LA) Theory Assessment (TA)  Term Work & Self-Learning Assessment  (TWA)  Lab Assessment (LA)  Progressive Theory Assessment  (PTA)  End Theory Assessment  (ETA)  Internal  External  Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA)  2418502   Software Engineering   30   70   20   30   -   -   150  Legend:  PTA:   Progressive Theory Assessment in class room (includes class test, mid-term test and quiz using online/offline modes) PLA:   Progressive Laboratory Assessment (includes process and product assessment using rating Scales and rubrics)  TWA:   Term work & Self Learning Assessment (Includes assessment related to student performance in assignments, seminars, micro projects, industrial visits, self-learning, any other student activities etc.  Note:     ETA & ELA are to be carried out at the end of the term/ semester.     Term Work is to be done by the students under the guidance of internal faculty but its assessment will be done internally (40%) as well as externally (60%). Assessment related to planning and execution of Term Work activities like assignment, micro project, seminar and self-learning is to be done by internal faculty (Internal Assessment) whereas assessment of output/product/ presentation related to these activities will be carried out by external faculty/expert (External Assessment). However, criteria of internal as well as external assessment may vary as per the requirement of respective course. For valid and reliable assessment, the internal faculty should prepare checklist & rubrics for these activities .\r\n--- Page 15 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 3  I)   Course Curriculum Detailing:   Course Curriculum Detailing: This course curriculum detailing depicts learning outcomes at course level and session level and their attainment by the students through Classroom Instruction (CI), Laboratory Instruction (LI), Term Work (TW) and Self Learning (SL). Students are expected to demonstrate the attainment of Theory Session Outcomes (TSOs) and Lab Session Outcomes (LSOs) leading to attainment of Course Outcomes (COs) upon the completion of the course. While curriculum detailing, NEP 2020 related reforms like Green skills, Sustainability, Multidisciplinary aspects, Society connect, Indian Knowledge System (IKS) and others must be integrated appropriately.  J)   Theory Session Outcomes (TSOs) and Units: T2418502  Major Theory Session Outcomes (TSOs)   Units   Relevant Cos  Number(s)  TSO 1a.   Identify the attributes that matches with standards for the given software application.  TSO 1b.   Suggest the relevant software solution for the given problem with justification.  TSO 1c.   Select the relevant software process model for the given problem statement.  TSO 1d.   Select the relevant activities in agile development process in the given situation.  Unit-1.0 Software Development Process  1.1   Type of software, need for software engineering, software engineering as layered approach, its characteristics.  1.2   Software development frame work.  1.3   Software process framework, process models: perspective process models, specialized process models.  1.4   Agile software development: agile process and its importance, extreme programming, adaptive software development, scrum, dynamics system development method (DSDM), crystal  1.5   Selection criteria for software process model.  CO-1  TSO.2.a   Apply the principles of software engineering for the given problem  TSO.2.b   Analyze software requirement by  following requirement engineering steps for the given problem.  TSO.2.c   Represent the requirement engineering model for the given problem  TSO.2.d   Prepare SRS for the given problem.  Unit 2.0 Software Requirement Engineering  2.1   Software engineering practices and its importance, core Principles.  2.2   Communication practices, planning practices, modeling Practices. Construction practices, software deployment (Statement and meaning of each Principles for each practice).  2.3   Requirement Engineering:  Requirement gathering and Analysis, type of requirement (functional, product, organizational, external requirements) Electing requirements models, developing use cases building requirements models, requirement negotiation, validation.  2.4   Software Requirements Specification (SRS):  need of SRS, Format, and its characteristic  CO-2  TSO.3.a   Identify the elements of analysis model for the given software requirements.  TSO.3.b   Apply the specified design feature for software requirements modeling.  TSO.3.c   Represent the specified problem in the given design notation.  Unit 3.0 Software Modeling and Design  3.1   Translating requirement model into design model: data Modelling.  3.2   Analysis Modelling: Elements of Analysis model.  3.3   Design modelling: Fundamental design  concept (Abstraction, Information hiding,  CO-3\r\n--- Page 16 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 4  Major Theory Session Outcomes (TSOs)   Units   Relevant Cos  Number(s)  structure, modularity, concurrency, verification, Aesthetics)  3.4 Design notations: Data Flow Diagram (DFD), Structure Flowcharts, Decision Tables.  TSO.4.a   Estimate the size of the software product using the given method.  TSO.4.b   Estimate the cost of the software product using the given empirical method.  TSO.4.c   Evaluate the size of the given software using COCOMO model.  TSO.4.d   Apply the RMMM strategy in identified risks for the given software development problem.  Unit-4.0 Software Project Estimation  4.1   The management spectrum-4P’s  4.2   Metrics for size Estimation: Line of Code (LoC), Function Points (FP).  4.3   Project cost Estimation Approaches: Overview of Heuristic, Analytical, and Empirical Estimation.  4.4   COCOMO (Constructive Cost Model), COCOMO II.  4.5   Risk Management: Risk Identification, Risk Assessment, Risk Containment, RMMM  Strategy.  CO-4  TSO.5.a   Explain the given characteristic of software testing.  TSO.5.b   Prepare test cases for the given problem.  TSO.5.c   Analyze the test cases for a given problem.  TSO.5.d   Describe the given Software Quality Assurance (SQA) activity.  TSO.5.e   Describe the features of the given software quality evaluation standard.  Unit 5.0 Software Testing and Quality Assurance:  5.1   Testing-Meaning and purpose, testing methods- Black- box and White box, level of testing-Unit testing.  5.2   Test Documentation- Test case Template, test plan, Introduction to defect Report, test summary report.  5.3   Test planning and management: Test Strategy, Test Plan, Test Estimation, Test Case Design, Test Data Preparation, Test Progress Monitoring and Reporting.  5.4   Software Quality Management vs. Software Quality Assurance. Phases of Software Quality Assurance: Planning, Activities Audit, and review.  5.5   Quality Evaluation standards: Six sigma, ISO for software, CMMI: Levels, process areas.  CO-5  TSO.6.a   Use the given scheduling technique for the identified project.  TSO.6.b   Draw the activity network for the given task.  TSO.6.c   Prepare the timeline chart/Gantt chart to track progress of the given project.  Unit 6.0 Software Project Management  6.1   Overview of project management activities, tasks, resources, Project Scheduling: Basic principle work breakdown structure, activity network and critical path method, scheduling Techniques (CPM, PERT).  6.2   Project Tracking; Timeline Charts. Earned  value analysis, Gantt charts.  CO-6  Note:   One major TSO may require more than one Theory session/Period\r\n--- Page 17 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 5  K)   Suggested Laboratory (Practical) Session Outcomes (LSOs) and List of Practical: (Not Applicable)  L)   Suggested Term Work and Self Learning: S2418502  a.   Assignments : Questions/Problems/Numerical/Exercises to be provided by the course teacher in line with the targeted COs.  b.   Micro Projects:  a.   Study and analyze given software and write characteristics and function of the same.  b.   Choose any problem statement and use data models to represent the situation  I.   Search and utilize different UML tools to represent models.  c.   Choose a problem create activity network and use different project scheduling and tracking tools for the same.  d.   Apply any testing tools (Selenium, JUnit, etc.) to ensure test cover, defect detection, test management, and Test Execution and Reporting for given problem.  e.   Apply any project management tool (Microproject Project, Jira work management, etc.) to performs Project planning, Task management, Collaboration and Communication, Time tracking, Resources management, and Gantt Charts and Timelines for given problem.  c.   Other Activities:  1.   Seminar Topics:     Software development life cycle Models     Software Development Ethics: (Address ethical considerations in software engineering, such as data privacy, responsible AI, and the impact of technology on society)     Principles, methodologies, and best practices of Agile software development     Software Testing Strategies: (various software testing techniques, including manual testing, automated testing, and exploratory testing, and their significance in delivering quality software)     Challenges in Software Engineering  2.   Self-Learning Topics:     Different stages of the SDLC     Techniques for improving code quality, such as code reviews, refactoring, and code analysis tools.     Software testing techniques, such as unit testing, integration testing, and acceptance testing.\r\n--- Page 18 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 6  M)   Suggested Course Evaluation Matrix:   The course teacher has to decide and use the appropriate assessment strategy and its weightage in theory, laboratory and Term work for ensuring CO attainment. The response/performance of the student in each of these designed activities is to be used to calculate  CO attainment .  COs  Course Evaluation Matrix  Theory Assessment (TA)**   Term Work Assessment (TWA)   Lab Assessment (LA) #  Progressive Theory Assessment (PTA)  Class/Mid  Sem Test  End Theory Assessment (ETA)  Term Work & Self Learning Assessment   Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA) Assignments   Micro Projects  Other Activities*  CO-1   15%   15%   15%   -   17%   --   -  CO-2   20%   20%   20%   20%   17%   -   -  CO-3   20%   20%   20%   20%   17%   -   -  CO-4   20%   20%   15%   20%   17%   -   -  CO-5   15%   15%   15%   20%   16%   -   -  CO-6   10%   10%   15%   20%   16%   -   -  Total Marks  30   70   20   20   10   -   -  50  Legend:  *:   Other Activities include self- learning, seminar, visits, surveys, product development, software development etc.  **:   Mentioned under point- (N)  Note:  •   The percentage given are approximate  •   In case of Micro Projects and End Laboratory Assessment (ELA), the achieved marks will be equally divided in all those COs mapped with total experiments.  •   For CO attainment calculation indirect assessment tools like course exit survey need to be used which comprises of questions related to achievement of each COs.  N)   Suggested Specification Table for End Semester Theory Assessment:   Specification table represents the reflection of sample representation of assessment of cognitive domain of full course.  Unit Title and Number   Total Classroom Instruction  (CI)  Hours  Relevant COs Number(s)  Total Marks  ETA (Marks)  Remember (R)  Understanding (U)  Application & above (A)  Unit-1.0   Software  Development Process  6   CO-1   09   3   3   3  Unit 2.0   Software  Requirement  Engineering  9   CO-2   14   4   4   6  Unit 3.0   Software Modeling and Design  10   CO-3   14   4   4   6  Unit 4.0   Software Project  Estimation  9   CO-4   14   4   4   6  Unit 5.0   Software Testing and  Quality Assurance  7   CO-5   10   3   3   4  Unit 6.0   Software Project  Management  7   CO-6   09   2   3   4  Total   48   -   70   20   21   29  Note:   Similar table can also be used to design class/mid-term/ internal question paper for progressive assessment.  O)   Suggested Assessment Table for Laboratory (Practical): (Not Applicable)\r\n--- Page 19 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 7  P)   Suggested Instructional/Implementation Strategies:   Different Instructional/ Implementation Strategies may be appropriately selected, as per the requirement of the content/outcome. Some of them are Improved Lecture, Tutorial, Case Method, Group Discussion, Industrial visits, Industrial Training, Field Trips, Portfolio Based, Learning, Role Play, Live Demonstrations in Classrooms, Lab, Field Information and Communications Technology (ICT)Based Teaching Learning, Blended or flipped mode, Brainstorming, Expert Session, Video Clippings, Use of Open Educational Resources (OER), MOOCs etc.  Q)   List of Major Laboratory Equipment, Tools and Software: (Not Applicable)  R)   Suggested Learning Resources:  (a)   Books:  S.  No.  Titles   Author(s)   Publisher and Edition with ISBN  1   Software Engineering concepts   Fairly, Richard   McGraw Hill higher education, new Delhi -2001, ISBN-13: 9780074631218  2   Software   Engineering:   A   practitioner’s approach  Pressman, Roger S.  McGraw Hill higher education, new Delhi, (Seventh Edition)  ISBN : 978-0-07-337597-7  3   Software Engineering principles and practices   Jain, Deepak   Oxford university press, New Delhi, ISBN :9780195694840  4   Fundamentals of Software Engineering   Rajib Mall   Prentice Hall India Learning Private Limited,  ISBN-13: 978-8120348981  (b)   Online Educational Resources:  1.   https:// www.tutorialspoint.com/software_engineering/index.htm  2.   https:// www.goskills.com/Project-Management/Resources/How-to-create-a-project-management-  plan  3.   https:// www.javatpoint.com/software-testing-tutorial  4.   https:// www.codingninjas.com/studio/library/software-engineering  Note:   Teachers are requested to check the creative commons license status/ financial implications of the suggested, online educational recourses before use by the students\r\n--- Page 20 ---\r\nSBTE, Bihar Diploma in Computer Science and Engineering   Semester - V  Page- 1  A)   Course Code   : 2418503A(T2418503A/P2418503A/S2418503A)  B)   Course Title   :   Data Science: Data Warehousing and Data Mining  C)   Pre- requisite Course(s)   :   Probability and Statistics, Python/JAVA  D)   Rationale   :  Data warehousing provides a structured and integrated repository for historical and real-time data, facilitating informed decision-making. It ensures data quality, consistency, and accessibility, leading to more reliable business intelligence and reporting. Data mining complements data warehousing by uncovering hidden patterns and insights within large datasets. It has significant applications in healthcare, genomics, and scientific research for discovering patterns and trends. Overall, data warehousing and data mining together provide a competitive advantage and drive data-driven decision-making, ultimately improving business performance.  E)   Course Outcomes (COs):   After the completion of the course, teachers are expected to ensure the accomplishment of following course outcomes by the learners. For this, the learners are expected to perform various activities related to three learning domains (Cognitive, Psychomotor and Affective) in classroom/ laboratory/ workshop/ field/ industry.  After completion of the course, the students will be able to-  CO-1   Apply statistical methods and forecasting techniques for data analysis.  CO-2   Explain the architecture and benefits of data warehousing.  CO-3   Prepare / Pre-process data for data mining.  CO-4   Use classification techniques for predicting class label attributes.  CO-5   Use clustering techniques to identify groups of similar objects in datasets.  F)   Suggested Course Articulation Matrix (CAM):  Course Outcomes (COs)  Programme Outcomes (POs)  Programme Specific Outcomes*  (PSOs)  PO-1  Basic and Discipline Specific Knowledge  PO-2  Problem Analysis  PO-3  Design/ Developm ent of Solutions  PO-4  Engineering Tools  PO-5  Engineering Practices for Society, Sustainability  and Environment  PO-6  Project Management  PO-7  Life Long Learni ng  PSO-1   PSO-2  CO-1   2   -   -   -   -   -   1  CO-2   2   1   1   -   -   -   1  CO-3   2   2   1   1   -   -   -  CO-4   2   3   3   2   -   -   -  CO-5   2   3   3   2   -   -   -  Legend:   High (3), Medium (2), Low (1) and No mapping (-)  *   PSOs will be developed by the respective program coordinator at the institute level. As per the latest NBA guidelines, formulating PSOs is optional\r\n--- Page 21 ---\r\nSBTE, Bihar Diploma in Computer Science and Engineering   Semester - V  Page- 2  G)   Teaching & Learning Scheme:  Course Code  Course Title  Scheme of Study  (Hours/Week)  Classroom Instruction  (CI)  Lab Instruction (LI)  Notional Hours (TW+ SL)  Total Hours  (CI+LI+TW+SL)  Total Credits (C)  L   T  2418503A  Data Science: Data Warehousing  and Data Mining  03   -   04   02   09   06  Legend:  CI:   Classroom Instruction (Includes different instructional/implementation strategies i.e. Lecture (L), Tutorial (T), Case method, Demonstrations, Video demonstration, Problem based learning etc. to deliver theoretical concepts)  LI:   Laboratory Instruction (Includes experiments/practical performances /problem-based experiences in laboratory, workshop, field or other locations using different instructional/Implementation strategies)  Notional Hours: Hours of engagement by learners, other than the contact hours for ensuring learning.  TW:   Term Work (includes assignments, seminars, micro projects, industrial visits, any other student activities etc.) SL:   Self Learning, MOOCs, spoken tutorials, online educational resources etc.  C:   Credits = (1 x CI hours) + (0.5 x LI hours) + (0.5 x Notional hours)  Note:   TW and SL have to be planned by the teacher and performed by the learner under the continuous guidance and feedback of teacher to ensure outcome of learning.  H)   Assessment Scheme:  Course Code   Course Title  Assessment Scheme (Marks)  Total Marks (TA+TWA+LA) Theory Assessment (TA)  Term Work & Self-Learning Assessment  (TWA)  Lab Assessment (LA)  Progressive Theory Assessment  (PTA)  End Theory Assessment  (ETA)  Internal  External  Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA)  2418503A  Data Science:  Data Warehousin g and Data  Mining  30   70   20   30   20   30   200  Legend:  PTA:   Progressive Theory Assessment in class room (includes class test, mid-term test and quiz using online/offline modes) PLA:   Progressive Laboratory Assessment (includes process and product assessment using rating Scales and rubrics)  TWA:   Term work & Self Learning Assessment (Includes assessment related to student performance in assignments, seminars, micro projects, industrial visits, self-learning, any other student activities etc.  Note:   ETA & ELA are to be carried out at the end of the term/ semester.     Term Work is to be done by the students under the guidance of internal faculty but its assessment will be done   internally (40%)   as well as   externally (60%) . Assessment related to planning and execution of Term Work activities like assignment, micro project, seminar and self-learning is to be done by internal faculty (Internal Assessment) whereas assessment of output/product/ presentation related to these activities will be carried out by external faculty/expert (External Assessment). However, criteria of internal as well as external assessment may vary as per the requirement of respective course. For valid and reliable assessment, the internal faculty should prepare checklist & rubrics for these activities .\r\n--- Page 22 ---\r\nSBTE, Bihar Diploma in Computer Science and Engineering   Semester - V  Page- 3  I)   Course Curriculum Detailing:   This course curriculum detailing depicts learning outcomes at course level and session level and their attainment by the students through Classroom Instruction (CI), Laboratory Instruction (LI), Term Work (SW) and Self Learning (SL). Students are expected to demonstrate the attainment of Theory Session Outcomes (TSOs) and Lab Session Outcomes (LSOs) leading to attainment of Course Outcomes (COs) upon the completion of the course. While curriculum detailing, NEP 2020 related reforms like Green skills, Sustainability, Multidisciplinary aspects, Indian Knowledge System (IKS) and others must be integrated appropriately.  J)   Theory Session Outcomes (TSOs) and Units: T2418503A  Major Theory Session Outcomes (TSOs)   Units   Relevant  Cos Number(s)  TSO1.a Identify various data collection methods and sources in data science.  TSO1.b Explain the various data types and data structures used in data science.  TSO1.c Differentiate between data types and data structures in data science.  TSO1.d List different statistical methods used in data science for data analysis.  TSO1.e Explain the principle of Hypothesis Testing TSO1.f Compare the methodologies of various  Forecasting techniques.  Unit-1.0 Data Science: Concepts and Techniques  1.1   Concepts and Importance  1.2   Data Types and Data Structures in Data Science  1.3   Data Collection and Data Sources in Data Science  1.4   Exploratory Data Analysis (EDA)  1.5   Statistical Methods for Data Analysis in Data Science     Descriptive Analysis     Exploratory Analysis     Inferential Analysis     Predictive Analysis     Linear Regression     Logistic Regression  1.6   Probability and Probability Distributions in Data Science  1.7   Hypothesis Testing  1.8   Forecasting Techniques     Delphi     Input Output Analysis     Extrapolation     Time Series analysis  1.9   Data Ethics and Privacy in Data Science  CO-1  TSO2.a Explain the need for a separate data warehouse in the context of data storage and retrieval.  TSO2.b Differentiate between the various Data Warehouse Models.  TSO2.c Explain the benefits of data warehousing in terms of data management and decision- making.  TSO2.d List the benefits of OLAP in analytical tasks.  TSO2.e Differentiate between OLAP and data mining.  Unit-2.0 Data Warehousing and On-Line Analytical Processing  2.1   Definition of Data Warehouse  2.2   Need for separate data warehouse  2.3   Data Warehouse Models:     Enterprise Warehouse     Data Mart     Virtual Warehouse  2.4   Difference between Operational Database System and Data Warehouse  2.5   Conceptual Modeling of Data Warehouse  2.6   Data warehouse architecture  2.7   Benefits of data warehousing  2.8   Introduction to Online Analytical Processing  CO-2\r\n--- Page 23 ---\r\nSBTE, Bihar Diploma in Computer Science and Engineering   Semester - V  Page- 4  Major Theory Session Outcomes (TSOs)   Units   Relevant  Cos Number(s)  2.8.1   OLAP applications  2.8.2   Features of OLAP  2.8.3   Benefits of OLAP  2.8.4   Strengths of OLAP  2.8.5   Comparison between OLTP and OLAP  2.8.6   Differences between OLAP and data mining  2.9   OLAP Operations (Roll-up, Drill down, Slice and dice)  2.10   Data Cube Computation  2.11   Data warehouses versus OLTP: similarities and  distinction  TSO 3a. Explain the fundamental concepts of data mining.  TSO 3b. Explain the significance of data mining and its applications in solving real- world problems.  TSO 3c. List various data mining techniques.  TSO 3d. Explain the importance of data preprocessing and major tasks involved in data preprocessing.  TSO 3e. List steps to integrate a data mining system with a database.  TSO 3f. Explain major issues in data mining. Differentiate between operational database systems and data warehouses.  Unit 3.0 Introduction to Data Mining  3.1   Introduction  3.2   Data Mining as Evolution of Information Technology  3.3   Types of data for mining     Database Data     Data Warehouses     Transactional Data     Other types of data  3.4   Need of Data Mining  3.5   Data Mining Application  3.6   Data Preprocessing  3.6.1   Need for Data Preprocessing  3.6.2   Major Tasks in Data Preprocessing  3.6.3   Data Preprocessing Methods     Data cleaning     Data integration     Data transformation     Data reduction     Data Discretization  3.7 Data Mining Techniques     - Predictive modeling Database segmentation     Link analysis     Deviation detection  3.8   Integration of a Data Mining System with Database  3.9   Major Issues in Data Mining  CO-3  TSO 4a.   Explain the approaches used to solve classification problems including the steps involved in the process.  TSO 4b.   Explain the evaluation of classifiers using appropriate techniques to assess their performance.  TSO 4c.   Explain different classification metrics such as accuracy, precision, recall.  TSO 4d.   Explain the concept of pattern- based  Unit 4.0 Classification Methods  4.1   Introduction to Classification  4.2   Approach to solve classification problems  4.3   Evaluation of Classifiers  4.4   Classification Metrics  4.5   Types of Classification  4.5.1   Posteriori Classification  4.5.2   Priori Classification  4.5.3   Binary Classification  CO-4\r\n--- Page 24 ---\r\nSBTE, Bihar Diploma in Computer Science and Engineering   Semester - V  Page- 5  Major Theory Session Outcomes (TSOs)   Units   Relevant  Cos Number(s)  classification.  TSO 4e.   Explain the characteristics of lazy learners in classification.  TSO 4f.   Give examples of real-world applications of classification.  4.5.4   Multi-class Classification  4.6   Classification Techniques  4.6.1   Bayesian Classification  4.6.2   Support Vector Machine  4.6.3   Decision Tree  4.6.4   Dimensionality Reduction  4.7   Pattern Based Classification  4.8   Over-fitting and Under-fitting  4.9   Lazy Learners  4.10   Applications of Classification  TSO 5a. Identify the requirements for conducting cluster analysis.  TSO 5b. Explain the various applications of cluster analysis in real-world scenarios.  TSO 5c. Explain different basic clustering methods, including partitioning, hierarchical, and density-based methods.  TSO 5d. Differentiate between agglomerative and divisive hierarchical clustering techniques.  TSO 5e. Explain the techniques for identifying and handling outliers in cluster analysis.  TSO 5f. Explain the role of web mining in extracting valuable information from different web- based sources.  Unit 5.0: Cluster Analysis and Web Mining  5.1   Introduction to Cluster Analysis  5.2   Requirements for cluster analysis  5.3   Applications of Cluster Analysis  5.4   Overview of basic clustering methods  5.5   Major Clustering Methods  5.5.1   Partitioning Based     k-Means Clustering- A Centroid-Based Technique  5.5.2   Hierarchical Based     Agglomerative     Divisive  5.5.3   Density Based     DBSCAN: Density-Based Clustering Based on Connected  5.6   Agglomerative versus Divisive Hierarchical Clustering  5.7   Distance Measures in Algorithmic Methods  5.8   Applications of Cluster Analysis  5.9   Identifying and handling of outliers  5.10   Outlier Detection Techniques  5.11   WEB MINING: Basic concepts  5.12   PAGE RANK Algorithm  5.13   HITS Algorithm  CO-5  Note:   One major TSO may require more than one Theory session/Period.\r\n--- Page 25 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 6  K)   Suggested Laboratory (Practical) Session Outcomes (LSOs) and List of Practical: P2418503A  Practical/Lab Session Outcomes (LSOs)  S.  No  .  Laboratory Experiment/Practical Titles  Relevant COs Number (s)  LSO 1.1 List the necessary data preprocessing methods  LSO 1.2 Identify the suitable datasets for using as input   in   linear   regression   and   logistic regression.  LSO 1.3 Calculate the efficiency of the various algorithms used for statistical analysis.  1.   1.1   Practice the necessary basic functions to handle the dataset.  1.2   Perform the statistical analysis by using linear regression and logistic regression on suitable dataset. Conduct the time using different sizes of datasets.  1.3   Perform the statistical analysis by using logic   regression   on   suitable   datasets. Conduct the time using different sizes of  datasets.  CO-1  LSO 2.1 Explain the OLAP operations with suitable examples.  LSO 2.2 Explain the OLAP cube construction process with necessary steps.  LSO 2.3 List the OLAP queries for any data.  LSO 2.4 Differentiate the OLTP and OLAP queries and operations.  2.   2.1   Perform the necessary OLAP Operations  2.2   Demonstrate the OLAP Cube construction  2.3   Apply the OLAP Queries on suitable input.  2.4   Demonstrate the OLTP using a dataset  CO-2  LSO 3.1 Explain the data pre-processing tasks LSO 3.2 Explain the attribute reduction in a  dataset  LSO 3.3 Handle the missing values in a dataset. LSO 3.4 Explain the data segmentation  3.   3.1   Perform the following data pre- processing tasks using a dataset.     Data cleaning     Data integration  3.2   Perform the following data pre- processing tasks using a dataset.     Data reduction     Data transformation  3.3   Pre-process a given dataset based on Attribute selection  3.4   Pre-process a given dataset based on Handling Missing Values  3.5   Perform data segmentation on a dataset  CO-3  LSO 4.1 Identify the suitable datasets for demonstrating the various algorithms  LSO 4.2 Explain the Apriori algorithm. LSO 4.3 Explain the FP-Growth  LSO 4.4 Calculate the Information Gain Ratio LSO 4.5 Explain the Bayesian Classifier  LSO 4.6 Explain the Decision Tree LSO 4.7 Explain the SVM  4   4.1   Implement the Apriori algorithm.  4.2   Implementation of FP-Growth  4.3   Calculate the Information Gain Ration for the input dataset  4.4   Implementation of Bayesian Classifier  4.5   Implementation of Decision Tree  4.6   Implementation of SVM  4.7   Demonstrate the pattern based classification  CO-4  LSO 5.1 Identify the suitable datasets for demonstrating the various algorithms  LSO 5.2 Explain the k-means clustering algorithm  LSO 5.3 Explain the DBSCAN algorithm  5.   5.1   Implement   the   K-Means   clustering algorithm on a dataset  5.2   Implement the DBSCAN algorithm on a  dataset  CO-5\r\n--- Page 26 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 7  Practical/Lab Session Outcomes (LSOs)  S.  No  .  Laboratory Experiment/Practical Titles  Relevant COs Number (s)  LSO 5.4 Differentiate the k-Means and DBSCAN LSO 5.5 Explain the Hierarchical clustering  algorithm  LSO 5.6 Explain the page ranking algorithm LSO 5.7 Explain the HITS algorithm  5.3   Implement the Hierarchical algorithm on a dataset  5.4   Implement the Page Ranking algorithm  5.5   Implement the HITS algorithm  L)   Suggested Term Work and Self Learning: S2418503A  a.   Assignments : Questions/Problems/Numerical/Exercises to be provided by the course teacher in line with the targeted COs.  1.   Differentiate the Linear Regression and Logistic Regression with examples.  2.   Explain the role of time series analysis in the process of forecasting.  3.   Explain in detail about the hypothesis testing with suitable example.  4.   Explain the OLAP operations by using a database.  5.   Demonstrate the data cube operation by using a real time dataset.  6.   Write the importance of the data pre-processing methods over the decision-making process on any dataset. Justify it.  7.   Differentiate the posterior classification and priori classification with suitable examples.  8.   Construct a decision tree for forecasting the Weather of the city in future.  9.   Differentiate the agglomerative clustering and divisive clustering with suitable examples.  10.   Write the advantages and disadvantages of the k-Means clustering and DBSCAN algorithm.  b.   Micro Projects: Troubleshooting and Maintenance of a Classroom Computer Lab  1.   Social Network Analysis: Analyze a social network dataset to understand network structure, identify influential nodes, or detect communities within the network.  2.   Clustering:  a.   k-Means Clustering: Apply the K-Means clustering algorithm to group data points into clusters. Experiment with different values of K to understand its impact.  b.   Hierarchical Clustering: Implement hierarchical clustering on a dataset, visualize dendrograms, and analyze the results.  3.   Classification:  a.   Decision Trees: Build a decision tree model for classification using a popular dataset like the Iris dataset. Evaluate the model's accuracy, and visualize the decision tree.  b.   Support Vector Machines (SVM): Use SVM to classify data points into different classes. Experiment with different kernels (linear, radial basis function) and tune hyper-parameters.  4.   Web Scraping and Data Extraction: Write a Python script to scrape data from a website. Extract relevant information and store it in a structured format (e.g., CSV, Excel). Apply basic data cleaning techniques to the extracted data.  5.   Use a classification dataset and implement machine learning algorithms like decision trees, Random forests, or support vector machines to classify data points. Evaluate the models using metrics like accuracy, precision, recall, and F1-score\r\n--- Page 27 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 8  c.   Other Activities :  1.   Lab Activities:  •   Install Python IDE and important Python Libraries  •   Install Anaconda and find the features of Jupyter Notebook.  •   Import various module using 'import '  •   Use Pip Python package manager.  •   Import Libraries and Functions in Python  2.   Explore different tools related to data mining and data warehousing like   Weka ,   Python   with  Scikit-learn ,   R .  3.   Explore data visualization tools of Python like Matplotlib, Plotly. (https://matplotlib.org/,  https://plotly.com/python/ )  4.   Explore statistical tools for data analysis like Numpy, Pandas, Scipy. (https://numpy.org/, https://pandas.pydata.org/, https:// www.scipy.org/)  5.   Self-Learning Topics:     Statistics and Probability: Understand foundational concepts like probability, statistical distributions, and hypothesis testing.     Machine Learning: Study algorithms for supervised learning (regression, classification) and unsupervised learning (clustering, dimensionality reduction).     Deep Learning: Dive into neural networks, frameworks like Tensor-Flow and PyTorch, and applications like image and natural language processing.     Natural Language Processing (NLP): Explore NLP techniques for text analysis, sentiment analysis, and language generation.     Data Integration: Understand techniques for integrating data from various sources into a data warehouse.     Data Warehouse Cloud Services: Get familiar with cloud-based data warehousing solutions like Amazon Redshift, Google BigQuery, and Snowflake.     Data Ethics and Privacy: Understand the ethical considerations and legal aspects of working with data.\r\n--- Page 28 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 9  M)   Suggested Course Evaluation Matrix:   The course teacher has to decide and use the appropriate assessment strategy and its weightage in theory, laboratory and Term work for ensuring CO attainment. The response/performance of the student in each of these designed activities is to be used to calculate  CO attainment .  COs  Course Evaluation Matrix  Theory Assessment (TA)**   Term Work Assessment (TWA)   Lab Assessment (LA) #  Progressive Theory Assessment (PTA)  Class/Mid  Sem Test  End Theory Assessment (ETA)  Term Work& Self Learning Assessment   Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA) Assignments   Micro Projects  Other Activities*  CO-1   15%   15%   10%   20%   15%   20%   20%  CO-2   20%   20%   10%   20%   25%   20%   20%  CO-3   20%   20%   20%   20%   20%   20%   20%  CO-4   25%   25%   30%   20%   20%   20%   20%  CO-5   20%   20%   30%   20%   20%   20%   20%  Total Marks  30   70   20   20   10   20   30  50  Legend:  *:   Other Activities include self- learning, seminar, visits, surveys, product development, software development etc.  **:   Mentioned under point- (N) #:   Mentioned under point- (O)  Note:  •   The percentage given are approximate  •   In case of Micro Projects and End Laboratory Assessment (ELA), the achieved marks will be equally divided in all those COs mapped with total experiments.  •   For CO attainment calculation indirect assessment tools like course exit survey need to be used which comprises of questions related to achievement of each COs.  N)   Suggested Specification Table for End Semester Theory Assessment:   Specification table represents the reflection of sample representation of assessment of cognitive domain of full course.  Unit Title and Number   Total Classroom Instruction (CI)  Hours  Relevant COs Number (s)  Total Marks  ETA (Marks)  Remember (R)  Understanding (U)  Application & above (A)  Unit-1.0   Data Science: Concepts and Techniques   8   CO-1   10   2   4   4  Unit 2.0   Data Warehousing and  On- Line Analytical Processing  10   CO-2   14   4   4   6  Unit3.0   Introduction to Data Mining  12   CO-3   14   5   5   4  Unit 4.0   Classification Methods   10   CO-4   18   5   6   7  Unit 5.0   Cluster Analysis and Web Mining   8   CO-5   14   4   4   6  Total   48   -   70   20   23   27  Note:   Similar table can also be used to design class/mid-term/ internal question paper for progressive assessment.\r\n--- Page 29 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 10  O)   Suggested Assessment Table for Laboratory (Practical)  S.  No.   Laboratory Practical Titles  Relevant COs Number(s)  PLA/ELA  Performance   Viva- Voce (%)  PRA* (%)  PDA** (%)  1.   Practice the necessary basic functions to handle the dataset.   CO-1   40   50   10  2.   Perform the statistical analysis by using linear regression and logistic regression on suitable dataset. Conduct the time using different sizes  of datasets.  CO-1   40   50   10  3.   Perform the statistical analysis by using logic regression on suitable datasets. Conduct the time using different sizes of datasets.  CO-1   40   50   10  4.   Perform the necessary OLAP Operations   CO-2   30   60   10  5.   Demonstrate the OLAP Cube construction   CO-2   40   50   10  6.   Apply the OLAP Queries on suitable input.   CO-2   50   40   10  7.   Demonstrate the OLTP using a dataset   CO-2   50   40   10  8.   Perform the following data pre-processing tasks using a dataset.  a.   Data cleaning  b.   Data integration  CO-3   50   40   10  9.   Perform the following data pre-processing tasks using a dataset.  a.   Data reduction  b.   Data transformation  CO-3   50   40   10  10.   Pre-process a given dataset based on Attribute selection   CO-3   50   40   10  11.   Pre-process a given dataset based on Handling Missing Values   CO-3   70   20   10  12.   Perform data segmentation on a dataset   CO-3   70   20   10  13.   Implement the Apriori algorithm on a dataset.   CO-4   50   40   10  14.   Implement the FP-Growth algorithm on a dataset   CO-4   50   40   10  15.   Calculate the Information Gain Ration for the input dataset   CO-4   50   40   10  16.   Classify the input data records by using Bayesian Classifier   CO-4   50   40   10  17.   Construct a decision tree for the given input dataset using J48 classifier  CO-4   50   40   10  18.   Perform the binary classification on a dataset using SVM classifier   CO-4   50   40   10  19.   Demonstrate the pattern based classification   CO-4   50   40   10  20.   Implement the K-Means clustering algorithm on a dataset   CO-5   50   40   10\r\n--- Page 30 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 11  S.  No.   Laboratory Practical Titles  Relevant COs Number(s)  PLA/ELA  Performance   Viva- Voce (%)  PRA* (%)  PDA** (%)  21.   Implement the DBSCAN algorithm on a dataset   CO-5   50   40   10  22.   Implement the Hierarchical algorithm on a dataset   CO-5   50   40   10  23.   Implement the Page Ranking algorithm   CO-5   50   40   10  24.   Implement the HITS algorithm   CO-5   50   40   10  Legend:  PRA * : Process Assessment PDA ** : Product Assessment  Note:   This table can be used for both end semester as well as progressive assessment of practical. Rubrics need to be prepared by the course teacher for each experiment/practical to assess the student performance.  P)   Suggested   Instructional/Implementation   Strategies:   Different   Instructional/   Implementation Strategies may be appropriately selected, as per the requirement of the content/outcome. Some of them are Improved Lecture, Tutorial, Case Method, Group Discussion, Industrial visits, Industrial Training, Field Trips, Portfolio Based, Learning, Role Play, Live Demonstrations in Classrooms, Lab, Field Information and Communications Technology (ICT)Based Teaching Learning, Blended or flipped mode, Brainstorming, Expert Session, Video Clippings, Use of Open Educational Resources (OER), MOOCs etc.  Q)   List of Major Laboratory Equipment, Tools and Software :  S.  No.  Name of Equipment,  Tools and Software  Broad  Specifications  Relevant Experiment/Practical  Number  1.   Computer system   Processor Intel Core i5, 4 GB RAM, 15 GB free disk space  All  2.   Data Analysis Tools   SPSS software, Excel Software   All  3   Data warehousing open source tools  WEKA 3  Orange Data Mining Rapid Miner  Scikit-learn  KNIME  All\r\n--- Page 31 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 12  R)   Suggested Learning Resources:  (a)   Books :  S.  NO.   Title of Book   Author   Publication  1   Data Mining Tools and Techniques   J. Han and M. Kamber   Morgan Kaufmann Publishers, 3 rd  Edition, ISBN 978-0-12-381479-1  2   Data Mining Introductory and Advanced Topics   M.H. Dunham, Sridhar   Pearson Education, 1 ST   Edition,  ISBN 10-8177587854,  ISBN-13-978-8177587852  3   Introduction to Data Mining   Pang-Ning Tan,   Michael  Steinbach   and   Vipin Kumar  Pearson Education, 1 ST   Edition, ISBN10 – 9332571406  ISBN 13-978-9332571402  4   Data warehousing - concepts, Techniques, Products and Applications  Prabhu   Prentice Hall of India, 3 rd   Revised edition, ISBN 10-978-8120336278  (b)   Online Educational Resources:  1.   https:// www.geeksforgeeks.org/data-science-tutorial/  2.   https:// www.javatpoint.com/data-science  3.   https:// www.tutorialspoint.com/data_science/index.htm  4.   https:// www.w3schools.com/datascience/  *****\r\n--- Page 32 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 13  A)   Course Code   : 2418503B(T2418503B/P2418503B/S2418503B)  B)   Course Title   :   Advanced JAVA Programming  C)   Pre- requisite Course(s)   :   Java Programming  D)   Rationale   :  The curriculum integrates JDBC (Java Database Connectivity), Java Servlets, and JSP (Java Server Page) to provide a comprehensive understanding of Java web development. JDBC equips students with database connectivity skills, allowing them to interact with databases, execute SQL queries, and manage data effectively. Java Servlets enable students to create dynamic web applications, handle HTTP requests, providing a strong foundation for server-side programming. JSP extends this knowledge by teaching students how to develop web pages with embedded Java code, making web application development more efficient. The curriculum emphasizes practical application through hands-on exercises, enabling students to build database-driven web applications. By combining these technologies, students are well-prepared to pursue careers in web development, as they gain expertise in building dynamic and data-driven web solutions.  E)   Course Outcomes (COs):   After the completion of the course, teachers are expected to ensure the accomplishment of following course outcomes by the learners. For this, the learners are expected to perform various activities related to three learning domains (Cognitive, Psychomotor and Affective) in classroom/laboratory/workshop/field/ industry.  After completion of the course, the students will be able to-  CO-1   Develop executable applet code that can be embedded into web pages.  CO-2   Develop applications using Abstract Window Toolkit  CO-3   Use SQL statements in java for creating tables and performing CRUD (Create, Read, Update, Delete) operations using JDBC.  CO-4   Develop server-side programs using servlets.  CO-5   Develop a JSP program that retrieves and displays database records.  F)   Suggested Course Articulation Matrix (CAM):  Course Outcomes (COs)  Programme Outcomes (POs)   Programme Specific Outcomes*  (PSOs)  PO-1  Basic and Discipline Specific Knowledge  PO-2  Problem Analysis  PO-3  Design/ Development of Solutions  PO-4  Engineering Tools  PO-5  Engineering Practices for Society, Sustainability  and Environment  PO-6  Project Managemen t  PO-7  Life Long Learning  PSO-1   PSO-2  CO-1   1   -   1   -   -   -   -  CO-2   1   2   2   1   -   1   -  CO-3   1   2   2   1   -   1   -  CO-4   1   2   2   1   -   1   2  CO-5   1   2   2   1   -   1   -  Legend:   High (3), Medium (2), Low (1) and No mapping (-)  *   PSOs will be developed by the respective program coordinator at the institute level. As per the latest NBA guidelines, formulating PSOs is optional\r\n--- Page 33 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 14  G)   Teaching & Learning Scheme:  Course Code  Course Title  Scheme of Study  (Hours/Week)  Classroom Instruction  (CI)  Lab Instruction (LI)  Notional Hours (TW+ SL)  Total Hours  (CI+LI+TW+SL)  Total Credits (C)  L   T  2418503B   Advanced JAVA  Programming   03   -   04   02   09   06  Legend:  CI:   Classroom Instruction (Includes different instructional/implementation strategies i.e. Lecture (L), Tutorial (T), Case method, Demonstrations, Video demonstration, Problem based learning etc. to deliver theoretical concepts)  LI:   Laboratory Instruction (Includes experiments/practical performances /problem-based experiences in laboratory, workshop, field or other locations using different instructional/Implementation strategies)  Notional Hours: Hours of engagement by learners, other than the contact hours for ensuring learning.  TW:   Term Work (includes assignments, seminars, micro projects, industrial visits, any other student activities etc.) SL:   Self Learning, MOOCs, spoken tutorials, online educational resources etc.  C:   Credits = (1 x CI hours) + (0.5 x LI hours) + (0.5 x Notional hours)  Note:   TW and SL have to be planned by the teacher and performed by the learner under the continuous guidance and feedback of teacher to ensure outcome of learning.  H)   Assessment Scheme:  Course Code   Course Title  Assessment Scheme (Marks)  Total Marks (TA+TWA+LA) Theory  Assessmen t(TA)  Term Work & Self-Learning Assessment  (TWA)  Lab Assessment (LA)  Progressive Theory Assessment  (PTA)  End Theory Assessment  (ETA)  Internal  External  Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA)  2418503B  Advanced JAVA  Programm  ing  30   70   20   30   20   30   200  Legend:  PTA:   Progressive Theory Assessment in class room (includes class test, mid-term test and quiz using online/offline modes) PLA:   Progressive Laboratory Assessment (includes process and product assessment using rating Scales and rubrics)  TWA:   Term work & Self Learning Assessment (Includes assessment related to student performance in assignments, seminars, micro projects, industrial visits, self-learning, any other student activities etc.  Note:     ETA & ELA are to be carried out at the end of the term/ semester.      Term Work is to be done by the students under the guidance of internal faculty but its assessment will be done   internally (40%)  as well as   externally (60%) . Assessment related to planning and execution of Term Work activities like assignment, micro project, seminar and self-learning is to   be done by internal faculty (Internal   Assessment)   whereas assessment of output/product/ presentation related to these activities will be carried out by external faculty/expert (External Assessment). However, criteria of internal as well as external assessment may vary as per the requirement of respective course. For valid and reliable assessment, the internal faculty should prepare checklist & rubrics for these activities . \r\n--- Page 34 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 15  I)   Course Curriculum Detailing:   This course curriculum detailing depicts learning outcomes at course level and session level and their attainment by the students through Classroom Instruction (CI), Laboratory Instruction (LI), Term Work (TW) and Self Learning (SL). Students are expected to demonstrate the attainment of Theory Session Outcomes (TSOs) and Lab Session Outcomes (LSOs) leading to attainment of Course Outcomes (COs) upon the completion of the course. While curriculum detailing, NEP 2020 related reforms like Green skills, Sustainability, Multidisciplinary aspects, Society connect, Indian Knowledge System (IKS) and others must be integrated appropriately.  J)   Theory Session Outcomes (TSOs) and Units: T2418503B  Major Theory Session Outcomes (TSOs)   Units   Relevant COs  Number(s)  TSO 1a.   Explain concept of applet life cycle.  TSO 1b.   Differentiate between applet and application.  TSO 1c.   Develop code for simple java applets.  TSO 1d.   Use applet tag and its parameter.  TSO 1e.   Use the methods of the applet and component classes.  Unit-1.0 JAVA Applet  1.1   Applet: Local and remote applets, Difference between applet and application, Applet life cycle, Developing executing applet code  1.2   Web page design: Applet tag, Adding applet to HTML file, Passing parameter to applet, Various methods and component classes to develop basic applet, Running applet.  1.3   Applet graphics: Drawing shapes and text, Handling graphics in applets, Animation with  applets.  CO-1  TSO 2a.   Explain the fundamental concepts of windows in AWT.  TSO 2b.   Compare AWT and Swing for developing graphical user interfaces.  TSO 2c.   Differentiate between various event classes in AWT.  TSO 2d.   List the advantages and disadvantages of different layout managers.  TSO 2e.   Explain the role and purpose of event listener interfaces.  TSO 2f.   Create an event-handling mechanism using event listener interfaces.  Unit-2.0 Abstract Window Toolkit (AWT)  2.1   Abstract   Window   Toolkit:   Class   hierarchy, Window fundamentals  2.2   Frame Window: Creating a frame window in the   applet,   Canvas,   Creating   a   window program  2.3   Graphics-AWT   Controls:   Labels,   TextField, Pushbuttons  2.4   Layout   Managers:   Flow   Layout,   Border Layout, Grid Layout, Card Layout  2.5   Developing   Graphical   User   Interface   using Swing: JApplet, JLabel, JTextField, JButton, JCheckBox, JRadioButton, JComboBox, Menus  2.6   Event Classes: MouseEvent Class, ActionEvent Class, WindowEvent Class  2.7   Event   Listen   Interface:   MouseListener, ActionListener,   WindowListener   and KeyListner  CO-2  TSO 3a.   Describe the basics of JDBC and its connectivity.   Unit-3.0 Java Data Base Connectivity (JDBC)  3.1 JDBC Architecture: Two-Tier Database Design, Three-Tier Database Design  CO-3\r\n--- Page 35 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 16  Major Theory Session Outcomes (TSOs)   Units   Relevant COs  Number(s)  TSO 3b.   Explain the key components of the JDBC API and their functions.  TSO 3c.   Compare different types of JDBC drivers.  TSO 3d.   Develop Java code to work with JDBC statements.  TSO   3e.   Explain   the   process   of   managing connections and resources in JDBC.  TSO 3f.   Implement transactions in JDBC, including both auto-commit and manual transaction management.  TSO 3g.   List the advantages and disadvantages of JDBC.  3.2   The JDBC API: The API components, Database operation:   creating   tables,   CRUD   (Create, Read, Update, and Delete) operations using SQL.  3.3   Establishing a JDBC Connection: JDBC Data Types, JDBC drivers, Connection management and   resource   cleanup,   JDBC-   Statements, PreparedStatement   and   CallableStatement, JDBC-   ResultSet,   JDBC-   Transactions,   JDBC- Exception Handling.  3.4   JDBC- Advantages and Disadvantages  TSO 4a.   Describe life cycle of servlet.  TSO 4b.   Explain the purpose and key features of the javax.servlet package.  TSO 4c.   Differentiate between the javax.servlet and javax.servlet.http packages.  TSO 4d.   Explain the components and purpose of the Java Servlet Development Kit (SDK).  TSO 4e.   Create a servlet that serves specific web application functionality.  TSO 4f.   Evaluate the benefits and drawbacks of using servlets for web development  Unit-4.0 Servlets Programming  4.1   Servlet API  4.2   javax.servlet Package  4.3   The javax.servlet. HTTP Package  4.4   The life cycle of a servlet  4.5   The Java Servlet Development Kit  4.6   The   Simple   Servlet:   Create   and   compile servlet source code, Start a web browser and request the servlet, Example of echo servlet, Deployment in Tomcat server, Handling HTTP  Requests and Responses  CO-4  TSO 5a.   Explain the architecture of JSP and its Life- cycle.  TSO 5b.   Differentiate between various JSP implicit objects.  TSO 5c.   Develop simple programs using Java Server Pages tags  TSO 5d.   Write JSP expressions to display dynamic content within a web page.  TSO 5e.   Create JSP pages using action tags to implement various functionalities.  TSO 5f.   Implement a JSP program that fetches and displays database records.  Unit-5.0 Java Server Pages (JSP)  5.1   Relation of Applets and Servlets with JSP  5.2   Lifecycle of JSP  5.3   JSP Scripting Elements  5.4   JSP Implicit Objects: Implicit objects- example of out and request, Response implicit object, PageContext,   page   and   exception   implicit object  5.5   JSP Expressions  5.6   JSP Action Tags  5.7   JSP Declarations  5.8   JSP- Standard Tag Library (JSTL)  5.9   Difference between JSP and Servlet  5.10   Simple JSP program to fetch database  records  CO-5  Note:   One major TSO may require more than one Theory session/Period.\r\n--- Page 36 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 17  K)   Suggested Laboratory (Practical) Session Outcomes (LSOs) and List of Practical: P2418503B  Practical/Lab Session Outcomes (LSOs)   S.  No.   Laboratory Experiment/Practical Titles  Relevant  COs Number(s)  LSO 1.1.   Implementation of Applet for  a)   displaying clock  b)   Filling colors in the shape  c)   Creating an event listener  d)   Displaying image  1.   a)   Write a program to display clock using Applet.  b)   Write a program to fill colors in shapes using Applet.  c)   Write a program to create an event listener in Applet.  d)   Write a program to display image using  Applet.  CO-1  LSO 2.1.   Use AWT components to create  Label, textfield,textarea, button, checkbox, radiobutton.  LSO 2.2.   Create a form using Component list and choice.  LSO 2.3.   Create a simple calculator by using grid layout.  2.   a)   Write a program for using the following awt components:  Label, text field, text area, button, checkbox, radio button.  b)   Write a program to design a form using the components list and choice.  c)   Write a   program   to   design   a   simple  calculator by using grid layout.  CO-2  LSO 3.1.   Create a program to  a)   Connect with JDBC database.  b)   Insert values into Table.  c)   Delete values from Table.  3.   a)   Write a java program that connects to a database using JDBC.  b)   Write   a   java   program   to   connect   to database using JDBC &insert values into table.  c)   Write a java program to connect to a database using JDBC and delete values  from table.  CO-3  LSO   4.1.   Illustrate   counter   concept   using deployment descriptor.  LSO   4.2.   Create   a   web   form   which   process servlet and apply concept of cookies and sessions.  4.   a)   Write a simple servlet program which maintains a counter for the number of times it has been accessed since its loading; initialize the counter Using deployment descriptor.  b)   Create a web form which processes servlet and demonstrates use of  Cookies and sessions.  CO-4  LSO 5.1.   Illustrate the concept of JSP for developing web pages.  5.   a)   Write   a   simple   JSP   program   for   user registration   and   then   control   will   be transfer it into second page.  b)   Write a simple JSP program for user login form with static and dynamic database  c)   Write a JSP program to display the grade of a student by accepting the marks of  five subjects.  CO-5  Note:   In addition to above listed practical, students are suggested to practice all the examples covered by the teacher during theory sessions.\r\n--- Page 37 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 18  L)   Suggested Term Work and Self Learning: S2418503B  Some sample suggested assignments, micro project and other activities are mentioned here for reference.  a.   Assignments:   Questions/Problems/Numerical/Exercises to be provided by the course teacher in line with the targeted COs.  b.   Micro Projects:  1.   Create a web-based system for managing employee leave requests and approvals.  2.   Develop a system that manages patient records, appointments, and billing for a hospital.  3.   Build an e-commerce platform with product listings, user accounts, and a recommendation system.  4.   Create a real-time chat application where users can register, join chat rooms, and exchange messages.  c.   Other Activities:  1.   Seminar on Java EE (Enterprise Edition) for Web Applications.  2.   Seminar on Java Security Best Practices.  3.   Seminar on Spring Framework in Java Development.  4.   Seminar on Microservices Architecture in Java.  M)   Suggested Course Evaluation Matrix:   The course teacher has to decide and use appropriate assessment strategy and its weightage in theory, laboratory and Term Work for ensuring CO attainment. The response/performance of each student in each of these designed activities is to be used to calculate   CO attainment .  COs  Course Evaluation Matrix  Theory Assessment (TA)**   Term Work Assessment (TWA)   Lab Assessment (LA) #  Progressive Theory Assessment (PTA)  Class/Mid  Sem Test  End Theory Assessment (ETA)  Term Work& Self Learning Assessment   Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA) Assignments   Micro Projects  Other Activities*  CO-1   15%   15%   15%   20%   15%   20%   20%  CO-2   25%   25%   25%   20%   25%   20%   20%  CO-3   20%   20%   20%   20%   20%   20%   20%  CO-4   20%   20%   20%   20%   20%   20%   20%  CO-5   20%   20%   20%   20%   20%   20%   20%  Total Marks  30   70   20   20   10   20   30  50  Legend:  *:   Other Activities include self- learning, seminar, visits, surveys, product development, software development etc.  **:   Mentioned under point- (N) #:   Mentioned under point-(O)  Note:  •   The percentage given are approximate  •   In case of Micro Projects and End Laboratory Assessment (ELA), the achieved marks will be equally divided in all those COs mapped with total experiments.  •   For CO attainment calculation indirect assessment tools like course exit survey need to be used which comprises of questions related to achievement of each COs.\r\n--- Page 38 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 19  N)   Suggested Specification Table for End Semester Theory Assessment:   Specification table represents the reflection of sample representation of assessment of cognitive domain of full course.  Unit Title and Number   Total Classroom Instruction  (CI)  Hours  Relevant COs Number(s)  Total Marks  ETA (Marks)  Remember (R)  Understanding (U)  Application & above (A)  Unit-1.0   JAVA Applet   8   CO-1   10   3   2   5  Unit-2.0   Abstract window Toolkit (AWT)  10   CO-2   18   6   4   8  Unit-3.0   Java Data Base  Connectivity (JDBC)  10   CO-3   14   3   4   7  Unit-4.0   Servlets Programming   10   CO-4   14   4   4   6  Unit- 5.0   Java Server Pages (JSP)   10   CO-5   14   4   4   6  Total   48   -   70   20   18   32  Note:   Similar table can also be used to design class/mid-term/ internal question paper for progressive assessment.  O)   Suggested Assessment Table for Laboratory (Practical):  S.  No.   Laboratory Practical Titles   Relevant COs Number(s)  PLA/ELA  Performance   Viva- Voce (%)  PRA* (%)  PDA** (%)  1.   Write a program to display clock using Applet   CO-1   30   60   10  2.   Write a program to fill colors in shapes using Applet.   CO-1   30   60   10  3.   Write a program to create an event listener in Applet   CO-1   30   60   10  4.   Write a program to display image using Applet   CO-1   30   60   10  5.   Write a program for using the following awt components: Label, text field, text area, button, checkbox, radio button.  CO-2   30   60   10  6.   Write a program to design a form using the components list and choice.  CO-2   30   60   10  7.   Write a program to design a simple calculator by using grid layout.  CO-2   30   60   10  8.   Write a java program that connects to a database using JDBC.   CO-3   30   60   10  9.   Write a java program to connect to database using JDBC & insert values into table.  CO-3   30   60   10  10.   Write a java program to connect to a database using JDBC and delete values from table.  CO-3   30   60   10  11.   Write a simple servlet program which maintains a counter for  the number of times it has been accessed since its loading; initialize the counter Using deployment descriptor.  CO-4   30   60   10\r\n--- Page 39 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 20  S.  No.   Laboratory Practical Titles   Relevant COs  Number(s)  PLA/ELA  Performance   Viva- Voce (%)  PRA* (%)  PDA** (%)  12.   Create a web form which processes servlet and demonstrates use of Cookies and sessions.  CO-4   30   60   10  13.   Write a simple JSP program for user registration and then control will be transfer it into second page.  CO-5   30   60   10  14.   Write a simple JSP program for user login form with static and dynamic database  CO-5   30   60   10  15.   Write a JSP program to display the grade of a student by accepting the marks of five subjects.  CO-5   30   60   10  Legend:  PRA * : Process Assessment PDA ** : Product Assessment  Note:   This table can be used for both end semester as well as progressive assessment of practical. Rubrics need to be prepared by the course teacher for each experiment/practical to assess the student performance.  P)   Suggested Instructional/Implementation Strategies:   Different Instructional/ Implementation Strategies may be appropriately selected, as per the requirement of the content/outcome. Some of them are Improved Lecture, Tutorial, Case Method, Group Discussion, Industrial visits, Industrial Training, Field Trips, Portfolio Based, Learning, Role Play, Live Demonstrations in Classrooms, Lab, Field Information and Communications Technology (ICT)Based Teaching Learning, Blended or flipped mode, Brainstorming, Expert Session, Video Clippings, Use of Open Educational Resources (OER), MOOCs etc.  Q)   List of Major Laboratory Equipment, Tools and Software:  S.  No.  Name of Equipment, Tools and Software  Broad Specifications  Relevant Experiment/Practical  Number  1.   Computer system   Processor Intel Core i5, 4 GB RAM, 15 GB free disk space   All  2.   Integrated Development and Learning Environment  (IDLE)  S/w to be downloaded for python 3.11.3 or higher   All  3   Package Distribution and IDE  Anaconda, Visual Studio Code, Pycharm, Conda, Spyder, RStudio etc.  All  4   Python-libraries   Numpy, Scipy, OpenCV   All\r\n--- Page 40 ---\r\nDiploma in Computer Science and Engineering   SBTE, Bihar  Page- 21  R)   Suggested Learning Resources:  (a)   Books :  S.  No.  Titles   Author(s)   Publisher and Edition with ISBN  1   Head First Servlets and JSP   Bryan Basham, Kathy Sierra, and Bert Bates  O'Reilly Media,2 nd   Edition, ISBN-13: 978-0596516680  2   Core and Advanced Java, Black Book   Herbert Schildt   Dreamtech Press, Standard Edition, ISBN: 978-9386052216  3   Complete Reference Java 2   Herbert Schildt   Tata McGrawHill, 5th Edition, ISBN-13:   0070495431-979  4   Unleashed Java 2 Platform   Jamie Jaworski   Sams Techmedia, ISBN: 978- 0596004651  (b)   Online Educational Resources:  1.   Java Applets   http://docs.oracle.com/javase/tutorial/deployment/applet/index.html  2.   Introduction to GUI Programming   http://math.hws.edu/javanotes/c6/index.html  3.   Creating a GUI using AWT   http://www.tutorialspoint.com/awt/  4.   JDBC Database Access https://docs.oracle.com/javase/tutorial/jdbc/  5.   Servlet Technologies   http://www.oracle.com/technetwork/java/index-jsp-135475.html  6.   Java Server Pages   http://www.oracle.com/technetwork/java/javaee/jsp/index.html  Note:   Teachers are requested to check the creative commons license status/ financial implications of the suggested, online educational recourses before use by the students.  ******\r\n--- Page 41 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 1  A)   Course Code   : 2400504B (T2400504B/P2400504B/S2400504B)  B)   Course Title   :   Artificial Intelligence (Basic)  C)   Pre- requisite Course(s)   :  D)   Rationale   :  Artificial intelligence is the theory and development of computer systems able to perform tasks such as, visual perception, speech recognition, decision-making etc. normally requiring human intelligence. Data analytics gives the basis of developing any artificial intelligence system.  The Python programming language is one of the most accessible programming languages, has several modules to write programs to solve Artificial Intelligence, Machine Learning, Data Analysis problems. Moreover, it has simplified syntax and versatile data structures and functionsto speed up the code writing efficiently.  This course provides the basics for Artificial Intelligence problem solving techniques, data analytics and articulates the different dimensions of these areas. This course also provides the students the foundations for data analytics with python. The course explains data science techniques and the various Python programming packages required to prepare data for analysis, perform data analytics and create meaningful data visualization.  E)   Course Outcomes (COs):   After the completion of the course, teachers are expected to ensure the accomplishment of following course outcomes by the learners. For this, the learners are expected to perform various   activities   related   to   three   learning   domains   (Cognitive,   Psychomotor   and   Affective)   in classroom/laboratory/workshop/field/ industry.  After completion of the course, the students will be able to-  CO-1   Elaborate the use of Artificial Intelligence for the problem solving as Technological driver.  CO-2   Write Python Programmes for solving problems.  CO-3   Analyze given data by using NumPy package of Python. CO-  4   Analyze given data by using Pandas package of Python. CO-5  Visualize given data set using Matplotlib.  F)   Suggested Course Articulation Matrix (CAM):  Course Outcomes (COs)  Programme Outcomes(POs)  Programme Specific Outcomes*  (PSOs)  PO-1  Basic and Discipline Specific Knowledge  PO-2  Problem Analysis  PO-3  Design/ Development of Solutions  PO-4  Engineering Tools  PO-5  Engineering Practices for Society, Sustainability  and Environment  PO-6  Project Management  PO-7  Life Long Learning  PSO- 1   PSO- 2  CO-1   -   2   2   -   -   -   1  CO-2   -   3   3   3   -   -   2  CO-3   -   3   3   3   -   -   2  CO-4   -   2   3   3   -   -   2  CO-5   -   3   3   3   -   -   2  Legend:   High (3), Medium (2), Low (1) and No mapping (-)  *   PSOs will be developed by respective programme coordinator at institute level. As per latest NBA guidelines, formulating PSOs is optional\r\n--- Page 42 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 2  G)   Teaching & Learning Scheme:  Course Code  Course Title  Scheme of Study  (Hours/Week)  Classroom Instruction (CI)   Lab Instruction (LI)  Notional Hours (TW+ SL)  Total Hours  (CI+LI+TW+SL)  Total Credits (C) L   T  2400504B   Artificial Intelligence  (Basics)  03   -   04   02   09   06  Legend:  CI:   Classroom Instruction (Includes different instructional/implementation strategies i.e. Lecture (L), Tutorial (T), Case method, Demonstrations, Video demonstration, Problem based learning etc. to deliver theoretical concepts)  LI:   Laboratory Instruction (Includes experiments/practical performances /problem-based experiences in laboratory, workshop, field or other locations using different instructional/Implementation strategies)  Notional Hours: Hours of engagement by learners, other than the contact hours for ensuring learning.  TW:   Term Work (includes assignments, seminars, micro projects, industrial visits, any other student activities etc.) SL:   Self Learning, MOOCs, spoken tutorials, online educational resources etc.  C:   Credits = (1 x CI hours) + (0.5 x LI hours) + (0.5 x Notional hours)  Note:   TW and SL have to be planned by the teacher and performed by the learner under the continuous guidance and feedback of teacher to ensure outcome of learning.  H)   Assessment Scheme:  Course Code  Cours e Title  Assessment Scheme (Marks)  Total Marks (TA+TWA+LA) Theory Assessment (TA)  Term Work & Self- Learning Assessment  (TWA)  Lab Assessment (LA)  Progressive Theory Assessment  (PTA)  End Theory Assessment  (ETA)  Internal  External  Progressive Lab Assessment  (PLA)  End Laboratory Assessment (ELA)  2400504B   Artificial Intellige nce  (Basics)  30   70   20   30   20   30   200  Legend:  PTA:   Progressive Theory Assessment in class room (includes class test, mid-term test and quiz using online/offline modes) PLA:   Progressive Laboratory Assessment (includes process and product assessment using rating Scales and rubrics)  TWA:   Term work & Self Learning Assessment (Includes assessment related to student performance in assignments, seminars, micro projects, industrial visits, self-learning, any other student activities etc.  Note:     ETA & ELA are to be carried out at the end of the term/ semester.      Term Work is to be done by the students under the guidance of internal faculty but its assessment will be done   internally (40%)   as well as  externally (60%) . Assessment related to planning and execution of Term Work activities like assignment, micro project, seminar and self- learning is to be done by internal faculty (Internal Assessment) whereas assessment of output/product/ presentation related to these activities will be carried out by external faculty/expert (External Assessment). However, criteria of internal as well as external assessment may vary as per the requirement of respective course. For valid and reliable assessment, the internal faculty should prepare checklist & rubrics for these activities . \r\n--- Page 43 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 3  I)   Course Curriculum Detailing:   This course curriculum detailing depicts learning outcomes at course level and session level and their attainment by the students through Classroom Instruction (CI), Laboratory Instruction (LI), Term Work (SW) and Self Learning (SL). Students are expected to demonstrate the attainment of Theory Session Outcomes (TSOs) and Lab Session Outcomes (LSOs) leading to attainment of Course Outcomes (COs) upon the completion of the course. While curriculum detailing, NEP 2020 related reforms like Green skills, Sustainability, Multidisciplinary aspects, Society connect, Indian Knowledge System (IKS) and others must be integrated appropriately.  J)   Theory Session Outcomes (TSOs) and Units: T2400504B  Major Theory Session Outcomes (TSOs)   Units   Relevant COs Number  (s)  TSO 1a. Elaborate the use of ArtificialIntelligence TSO 1b. Explain various technological Driversof  Modern AI  TSO 1c. Describe Knowledge representation TSO 1d. Classify Intelligent agents  TSO 1e. List the characteristics of agents  TSO 1f. Apply various search strategies for problem solving  Unit-1.0. Artificial Intelligence  Artificial Intelligence:   What is AI?, Types of AI, History of AI, Turing Test, Symbol Systems and the scope of Symbolic AI, Structure of AI, Goals of AI, Importance ofAI, Techniques used in AI, Perception, Understanding and Action ,  Technological drivers of modern AI  Knowledge : Definition, Knowledge Representation, objectives andrequirements, practical aspects of representation, Components  Intelligent Agents : Agents and Environments, Properties of environments,characteristics of agents, classification of agents  Problem Solving:   Problem Formulation,Goal Formulation, State Space Search,Search Problem, Basic search algorithm,Search Tree, Search strategies–Uninformed and informed search, Breadth FirstSearch, Depth FirstSearch, Best FirstSearch, Constraint Satisfaction Problem (CSP), Back tracking Search.Problem Definitions: N Queen Problem, 8Puzzle  Problem, Tic-tac-Toe.  CO-1  TSO 2a. Explain Python tokens and variables TSO 2b. Use the concept of l-value and r -value TSO 2c. Write python program using various  data types  TSO 2d. Write Program using variousoperators in Python  TSO 2e. Write program using conditional statements  TSO 2f. Use various string functions for problem solving in python program  TSO 2g.   Write programmes using various operations on list  TSO 2h. Write programmes by using various operations on Tuples and Dictionary  TSO 2i. Create user defined functions  TSO 2j. Write python programmes using built-in functions  TSO 2k. Describe the procedure to import module in the Python  Unit-2.0 Python Programming  Python character set, Python tokens, variables, concept of l-value and r-value,use of comments.  Data types: number (integer, floating point, complex), boolean, sequence (string,list, tuple), none, mapping (dictionary), mutable and immutable data types Operators: arithmetic operators, relationaloperators, logical operators, assignmentoperator, augmented assignmentoperators. Expressions, statement, typeconversion & input/output: precedence ofoperators, expression, evaluation ofexpression.  Conditional and Iterative statements:   if, if-else, if- elif-else, for loop, range function, while loop, break and continue statements, nested loops  String, List, Tuples and Dictionary:  String: indexing, string operations (concatenation,  CO-2\r\n--- Page 44 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 4  Major Theory Session Outcomes (TSOs)   Units   Relevant COs Number  (s)  TSO 2l. Describe procedure to Import Libraryand functions in the Python  TSO 2m. Write program using Iterativestatements.  repetition, membership & slicing), traversing a string using loops, built-in functions.  Lists: introduction, indexing, list operations (concatenation, repetition, membership & slicing), traversing a list using loops, built- in functions, linear search on list of numbers and counting the frequency of elements in a list Dictionary: accessing items in a dictionary using  keys, mutability of dictionary (adding a new item, modifying an existing item), traversing a dictionary, built-in functions  Python Functions:   types of function (built- in functions, functions defined in module, user defined functions), creating user defined function, arguments and parameters, default parameters, positionalparameters, function returning value(s), flow of execution, scope of a variable (global scope, local scope)  Modules and Packages:   Importing module using 'import' Regular Expressions,Exception Handling, PyPI Python PackageIndex, Pip Python package manager, Importing Libraries  and Functions  TSO 3a. Explain Data Analytics and its elements TSO3b. Differentiate Data Analysis and Data  Analytics  TSO 3c. Explain the use of open source data  TSO 3d. Differentiate Qualitative and Quantitative data analysis  TSO 3e. Explain procedure to Install NumPy Library TSO 3f. Use NumPy library to perform various  operations and functions on array  TSO 3g. Write Programs using NumPy for array manipulations  Unit-3.0 Data Analytics and Computing with NumPy  Data Analytics : Data, Types of Data, Importance of Data, Data Analysis Vs Data Analytics, Types of Data Analytics, Elements of Analytics, Data Analysis Process, Qualitative and Quantitative analyses, Open Source Data.  NumPy Library : Introduction, Installation,  Ndarray : creating an array, intrinsic creation of an array, Data types, basic operations, aggregate functions, Indexing, slicing, Iterating,  Conditions and Booleanarrays, Array  manipulation:   Joining, splitting, shape changing,  sorting, Structured arrays, Reading and Writing array data on a File.  CO-3  TSO 4a. Apply Pandas data structure for data analysis  TSO 4b. Write Programs using Pandas to perform various operations and functions on series.  TSO 4c. Perform various operation in a Data Frame columns and rows  TSO 4d. Write Programme to read and write on CSV, XLS and Text data files  TSO 4e. Apply various data cleaning operations and prepare data.  Unit-4.0 Data Analysis with Pandas  Pandas data structures : Series, Declaration, selecting elements, assigning values, Filtering values, operations, mathematical functions, evaluating values, handling missing data, creating series from dictionaries, adding two series.  Data Frame:   Defining, selecting elements, assigning values, membership, deleting a column, filtering. Index Objects: Indexing, Re- indexing, Dropping, sorting and ranking, Descriptive Statistics  Data Loading : Reading and Writing csv, xls, text data files, Data Cleaning and Preparation: Handling missing data, removing duplicates,  replacing values,Vectorized String Methods,  CO-4\r\n--- Page 45 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 5  Major Theory Session Outcomes (TSOs)   Units   Relevant COs Number  (s)  HierarchicalIndexing, Merging and Combining, Data aggregation and Grouping.  TSO 5a. Illustrate the use of Matplotlib and PyPlot package for showing plots and images  TSO 5b. Customize plots with Colors, Markers, Line Styles, Limits, Tics, Labels, Legends, Grids  TSO 5c. Differentiate various charts based on their applications  Unit-5.0 Data Visualization with Matplotlib  Data Visualization: Introduction to Matplotlib  ,PyPlot package, Figures andSubplots, showing plots and images  Customizing Plots: Colors, Markers, Line Styles, Limits, Tics, Labels, Legends, Grids ,Annotating with text, Matplotlib  Configuration  Chart types: Line, Bar, stacked bar, Box plots, pie chart , Histogram and Densityplots, Scatter plot, Saving Plots to a file,  Close and clear plots.  CO-5  Note:   One major TSO may require more than one Theory session/Period.  K)   Suggested Laboratory (Practical) Session Outcomes (LSOs) and List of Practical: P2400504B  Practical/ Lab SessionOutcomes  (LSOs)  S.  No.   Laboratory Experiment/Practical Titles  Relevant COs  Number (s)  LSO 1.1 Use various data types and operators to solve given problem  LSO 1.2 Use conditional and iterative statements for solving given problem  1   Conditional and Iterative statements  1a. Write a program to generate random numbers between 5 and 10.  1b. Write a program to find the square root of a number.  1c. Write a python program to check if a numberis positive, negative or 0.  1d. Write Python program to print all prime  numbers between 0-50.  CO-2  LSO 2.1 Use string functions for performing various string operations  2   String Handling  2a. Write a Programme that asks the user for a string with only single space between words, and return number of words in the string.  2b. Write a Program that inputs a line of textand print the count of Vowels in it.  2c. Write a Program that inputs a line of text andprint the biggest word in it.  2d. Write a Program that inputs a line of textand print a new line of text where each  word of input line is reversed.  CO-2  LSO 3.1 Use list operations for concatenation, repetition & slicing  LSO 3.2 Perform various operation in the Tuples LSO 3.3 Perform various operation in the  dictionary  3   List, Tuples and Dictionary  3a. Write a python program to convert a stringto a list.  3b. Write a program to print the largest number in a list.  3c. Given a tuple pairs = ((3,9), (8,4), (3,7), (24,18)), count the number of pairs (a, b) such that both a and b are odd.  3d. Write a program to input a list of numbers and swap elements at the even location  withthe elements at the odd location.  CO-2\r\n--- Page 46 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 6  Practical/ Lab SessionOutcomes  (LSOs)  S.  No.   Laboratory Experiment/Practical Titles  Relevant  COs Number (s)  3e. Write a program to merge two dictionaries.  LSO 4.1 Use built-in functions to solve given problem  LSO 4.2 Create user defined functions to solve given problem  4   Python Functions  4a. Write a function to reverse a string.  4b. Write a function to calculate the factorial of a number.  CO-2  LSO 5.1 use basic data structure using NumPy  LSO 5.2 Convert the list and tuple as NumPy array  5.  Basic data structures in NumPy  5a. Create a List, set, tuple and dictionary which stores the details of a student (roll no, name, dept, branch, percentage of mark) in Python and print the values.  5b. Convert the list and tuple as NumPy array.  CO-3  LSO 6.1 Create Arrays in Numpy using different intrinsic methods  LSO 6.2 Perform arithmetic operations and mathematical operations using arrange and ones intrinsic method.  6   Arrays in NumPy  6a. Create arrays using different intrinsic methods (ones, zeros, arange, linspace, indice) and print their values.  6b. Check the results of arithmetic operations like add(), subtract(), multiply() and divide() with arrays created using arrange and ones intrinsic method.  6c. Check the results of mathematical operations like exp(), sqrt(), sin(), cos(), log(), dot() on an array created using arrange  intrinsic method.  CO-3  LSO 7.1 Apply aggregate functions on data by using Built-in function s in Numpy  7   Built-in functions in NumPy.  7a. Load your class Mark list data from a csv (comma separated value) file into an array. Perform the following operations to inspect yourarray. Len(), ndim, size, dtype, shape, info()  7b. Apply the aggregate functions on this data and print the results. (Functions like min(), max(), cumsum(), mean(), median(), corrcoef(),  std())  CO-3  LSO 8.1 Handle multiple arrays by applying various operations on arrays  8   Handling Multiple Arrays  8a.   Create   two python NumPy arrays (boys, girls) each with the age of nstudents in the class.  8b. Get   the   common items between twopython NumPy arrays.  8c. Get the positions where elements of twoarrays match.  8d. Remove from one array those items thatexist in another.  8e. Extract all   numbers   between a given rangefrom a NumPy array.  CO-3  LSO 9.1 Apply indexing on the given set of data   9   Indexing in NumPy  9a. Load your class Mark list data from a csv file into an array.  9b. Access the mark of a student in a particular subject using indexing techniques.  9c. Select a subset of 2D array using fancy  indexing (indexing using integer arrays  CO-3  LSO 10.1 Create series using list and dictionary in pandas  10   Working with a Series using Pandas  10a. Create a series using list and dictionary.  CO-4\r\n--- Page 47 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 7  Practical/ Lab SessionOutcomes  (LSOs)  S.  No.   Laboratory Experiment/Practical Titles  Relevant  COs Number (s)  LSO 10.2 Print different values from series.  10b. Create a series using NumPy functions in  Pandas.  10c. Print the index and values of series. 10d. Print the first and last few rows from  theseries.  LSO 11.1 Perform various operation in a Data Frame rows  11   Working with Data Frame Rows  11a. Slicing Data Frame using loc and iloc.11b. Filter multiple rows using isin. 11c. Select first n rows and last n rows 11d. Select rows randomly n rows and  fractionsof rows (use df. sample method) 11e. Count the number of rows with each  unique value of variables  11f. Select nlargest and nsmallest values.11g.  Order/sort the rows  CO-4  LSO 12.1 Apply different techniques to merge and combine data  12   Merge and combine data  12a. Perform the append, concat and combine first operations on Data Frames.  12b. Apply different types of merge on data. 12c. Use a query method to filter Data Frame  with multiple conditions.  CO-4  LSO 13.1 Create Linear Plot to identify various relation in the data using Matplotlib  LSO 13.2 Create Scatter Plot to identify various relation in the data using Matplotlib  13   Consider the Salary dataset, which contains 30observations consisting of years of workingexperience and the annual wage.  Download thedata set from  https:// www.kaggle.com/rohankayan/years-of-  experience-and-salary-dataset  13a. Create a linear plot to identify the relationship between years of workingexperience and the annual wages withsuitable title, legend and labels.  13b.   Create   a   scatter   plot   to   identify   the relationship between years of working experience and the annual wages with title, legend and labels.  13c. Also distinguish between observations that have more than 5 years of working experience and observations that have less than 5 years of working experience by  using different colors in one single plot.  CO-5  LSO 14.1 Plot Bar graph by Changing the color of each bar, Change the Edge color, Linewidth and Line style.  14   Consider the Iris dataset, where observationsbelong to either one of three iris flower classes.Download the data set from  https://www.kaggle.com/arshid/iris-flower-  dataset  14a. Visualize the average value for each feature of the Set osa iris class using a bar chart.  14b.   Format   the obtained bar graph by Changingthe color of each bar, Change the Edge color, Line  width   and Line style.  CO-5\r\n--- Page 48 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 8  L)   Suggested Term Work and Self Learning :   S2400504B   Some sample suggested assignments, micro project and other activities are mentioned here for reference.  a.   Assignments : Questions/Problems/Numerical/Exercises to be provided by the course teacher in line with the targeted COs.  b.   Micro Projects:  1.   Handing Two-dimensional array in NumPy Download the data set from  https://archive.ics.uci.edu/ml/machine-learning-  databases/iris/iris.datahttps:// www.kaggle.com/arshid/iris-flower-dataset  a.   Import iris dataset with numbers and texts keeping the text intact into python NumPy.  b.   Convert the 1D iris to 2D array (iris2d) by omitting the species text field.  c.   Find the number and position of missing values in iris2d's sepal_length  d.   Insert np.nan values at 20 random positions in iris 2d dataset  e.   Filter the rows of iris2d that has petal_length> 1.5 and sepal_length< 5.0  Expected Outcome   (Use various operations on two dimensional arrays in NumPy)  2.   Handling missing data and duplicates in Pandas:  a.   Identify rows with missing data ( isnull(), notnull()) and replace NA/Null data with a given value.  b.   Drop rows and columns with any missing data (dropna(), dropna(1))  c.   Find duplicate values and drop duplicates.  d.   Fill the missing values using forward filling and backward filling.  e.   Replace the missing value with new value and write the dataframe to a CSV file in the local directory.  Expected Outcomes   (a. Identify missing data, b. Find Duplicates values, c. Write the dataframe to a CSV file in the local directory.)  3.   Working with Data Frame Columns:  a.   Create and print a Data Frame.  b.   Find the descriptive statistics for each column.  c.   Group the data by the values in a specified column, values in the index.  d.   Set Index and columns in a Data Frame.  e.   Rename columns and drop columns  f.   Select or filter rows based on values in columns.  g.   Select single and multiple columns with specific names  Expected Outcome ( Perform various operation in a Data Frame columns)  4.   Indexing & Sorting in NumPy:  a.   Load your class Mark list data from a csv file into an array.  b.   Sort the student details based on Total mark.  c.   Print student details whose total marks is greater than 250 using Boolean indexing.  Expected Outcomes   (a. Sort the given set of data, b. Use indexing in an array)  5.   Array Slicing in NumPy:  a.   Load your class Mark list data into an array called “marks” to store students roll num, subject marks and result.  b.   Split all rows and all columns except the last column into an array called “features”.  c.   Split the marks array into 3 equal-sized sub-arrays each for 3 different subject marks.  d.   Split the last column into an array “label”.  e.   Delete the roll num column from the marks array and insert a new column student name in its place.  Expected Outcome ( Use array slicing in Numpy for the given set of data)\r\n--- Page 49 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 9  6.   Consider the Iris dataset, where observations belong to either one of three iris flower classes.  Download the data set from  https:// www.kaggle.com/arshid/iris-flower-dataset  a.   Visualize the Histogram for each feature (Sepal Length, Sepal Width, petal Length & petal Width) separately with suitable bin size and color.  b.   Plot the histograms for all features using subplots to visualize all histograms in one single plot.Save the plot as JPEG file.  c.   Plot the box plots for all features next to each other in one single plot. Perform 3D printing of plastic casing of inhaler used by Asthma patients and estimate the cost.  Expected Outcomes   (a. Plot the Histogram for the various features using subplot, b. Plot the boxplots for all features next to each other in one single plot)  c.   Other Activities:  1.   Lab Activities:     Install Python IDE and important Python Libraries     Install Anaconda and find the features of Jupyter Notebook.     Import various module using 'import '     Use Pip Python package manager.     Import Libraries and Functions in Python  2.   Seminar Topics:     Technological rivers of modern Artificial Intelligence     Intelligent Agents and Environments in Artificial Intelligence     Various Search Strategies     Python for Data Science     Python Libraries and Packages used in data Science     Data Visualization     Various data set available over Internet  3.   Self-Learning Topics:     Use of AI in Engineering and Technology     Data Science and Machine Learning     Problem and Goal Formulation     Search strategies     Breadth First Search and Depth First Search     Back tracking Search     N Queen and 8 Puzzle Problem\r\n--- Page 50 ---\r\nDiploma in Computer Science and Engineering   Semester-V   SBTE, Bihar  Page- 10  M)   Suggested Course Evaluation Matrix:   The course teacher has to decide and use appropriate assessment strategy and its weightage in theory, laboratory and Term Work for ensuring CO attainment. The response/performance of each student in each of these designed activities is to be used to calculate   CO attainment .  COs  Course Evaluation Matrix  Theory Assessment (TA)**   Term Work Assessment (TWA)   Lab Assessment (LA) #  Progressive Theory Assessment (PTA)  Class/Mid Sem Test  End Theory Assessment (ETA)  Term Work & Self-Learning  Assessment   Progressive Lab Assessment (PLA)  End Laboratory Assessment (ELA) Assignments   Micro Projects  Other Activities*  CO-1   20%   20%   20%   --   30%   --   --  CO-2   10%   20%   20%   --   20%   20%   25%  CO-3   20%   25%   20%   30%   20%   20%   25%  CO-4   30%   25%   20%   20%   30%   30%   25%  CO-5   20%   10%   20%   50%   --   30%   25%  Total Marks  30   70   20   20   10   20   30  50  Legend:  *:   Other Activities include self- learning, seminar, visits, surveys, product development, software development etc.  ** :   Mentioned under point- (N) #:   Mentioned under point-(O)  Note:     The percentage given are approximate      In case of Micro Projects and End Laboratory Assessment (ELA), the achieved marks will be equally divided in all those COs mapped with total experiments.      For CO attainment calculation indirect assessment tools like course exit survey need to be used which comprises of questions related to achievement of each COs.   N)   Suggested Specification Table for End Semester Theory Assessment:   Specification table represents the reflection of sample representation of assessment of cognitive domain of full course.  Unit Title and Number  Total Classroom Instruction  (CI)  Hours  Relevant COs Number (s)  Total Marks  ETA (Marks)  Remember (R)  Understanding (U)  Application & above (A)  Unit-1.0 . Artificial  Intelligence  9   CO-1   14   6   5   3  Unit-2.0 . Python  Programming  12   CO-2   14   4   4   6  Unit-3.0 . Data Analytics and Computing  with NumPy  10   CO-3   17   4   5   8  Unit-4.0 . Data Analysis  with Pandas  10   CO-4   18   4   5   9  Unit-5.0.   Data Visualization with Matplotlib  7   CO-5   7   2   2   3  Total Marks   48   70   20   21   29  Note:   Similar table can also be used to design class/mid-term/ internal question paper for progressive assessment.",
+      "analysis": {
+        "university": "State Board of Technical Education (SBTE), Bihar",
+        "course": "Diploma in Computer Science & Engineering",
+        "branch": "Computer Science & Engineering",
+        "semester": "5th Semester",
+        "academicYear": "2024-2025",
+        "summary": "The 5th Semester Diploma in Computer Science and Engineering curriculum designed by SBTE Bihar under the Department of Science, Technology and Technical Education (DSTTE) encompasses core professional competencies including Data Communication and Computer Networks, Software Engineering, Programme Electives (such as Data Science: Data Warehousing and Data Mining or Advanced JAVA Programming), Open Electives, Entrepreneurship Development & Start-ups, Summer Internship-II, and Minor Projects. The pedagogical design integrates theoretical classroom instructions with hands-on lab experiments, continuous term work assessments (40% internal, 60% external), and micro-projects adhering to NEP 2020 directives.",
+        "subjects": [
+          {
+            "id": "sub-dccn",
+            "name": "Data Communication and Computer Network",
+            "code": "2418501",
+            "credits": 6,
+            "theoryHours": 48,
+            "practicalHours": 64,
+            "overviewEn": "This course covers foundational and advanced principles of computer networking and data communications, progressing through the physical transmission media, Data Link layer framing and error control, Network layer IP routing and subnetting, Transport layer reliability and congestion mechanisms, up to Application layer services like DNS, HTTP, and FTP.",
+            "overviewHi": "यह कोर्स कंप्यूटर नेटवर्किंग और डेटा संचार के मूलभूत और उन्नत सिद्धांतों को कवर करता है, जिसमें भौतिक ट्रांसमिशन मीडिया, डेटा लिंक लेयर फ्रेमिंग और एरर कंट्रोल, नेटवर्क लेयर आईपी रूटिंग और सबनेटिंग, ट्रांसपोर्ट लेयर रिलायबिलिटी और एप्लीकेशन लेयर प्रोटोकॉल (DNS, HTTP, FTP) शामिल हैं।",
+            "whyItMatters": "Every connected device, web service, and distributed enterprise system relies upon deterministic data transmission protocols and scalable network topologies. Mastery of networking allows engineers to design, deploy, and troubleshoot modern internet-scale applications.",
+            "units": [
+              {
+                "id": "dccn-u1",
+                "unitNumber": 1,
+                "title": "Data Communications and Transmission Media",
+                "hours": 7,
+                "overviewEn": "Covers communication components, standard organizations, simplex/duplex transmission modes, digital/analog signal conversions, network classifications (LAN/WAN), network architectures, guided/unguided media, and multiplexing methods.",
+                "overviewHi": "संचार घटक, मानक संगठन, सिम्प्लेक्स/डुप्लेक्स मोड, एनालॉग-डिजिटल रूपांतरण, लैन/वैन नेटवर्क वर्गीकरण, गाइडेड/अनगाइडेड मीडिया और मल्टीप्लेक्सिंग विधियों का परिचय।",
+                "topics": [
+                  {
+                    "id": "dccn-u1-t1",
+                    "name": "Data Communication Components & Communication Models",
+                    "explanationEn": "Data communication is the exchange of data between two nodes via transmission media. Key components include Transmitter (source), Receiver (sink), Medium (path), Message (data/payload), and Protocol (governing rules). Transmission modes are Simplex (unidirectional, e.g., keyboard to monitor), Half-Duplex (bidirectional but sequential, e.g., walkie-talkie), and Full-Duplex (simultaneous bidirectional, e.g., telephone call).",
+                    "explanationHi": "डेटा संचार दो नोड्स के बीच ट्रांसमिशन माध्यम से डेटा का आदान-प्रदान है। मुख्य घटकों में प्रेषक (Transmitter), रिसीवर (Receiver), माध्यम (Medium), संदेश (Message), और प्रोटोकॉल (Protocol) शामिल हैं। इसके मॉडल सिम्प्लेक्स, हाफ-डुप्लेक्स और फुल-डुप्लेक्स हैं।",
+                    "technicalTerms": [
+                      "Transmitter",
+                      "Receiver",
+                      "Protocol",
+                      "Simplex",
+                      "Half-Duplex",
+                      "Full-Duplex",
+                      "Baud Rate",
+                      "Bandwidth"
+                    ],
+                    "realWorldExample": "Broadcasting over FM Radio is Simplex; using walkie-talkies where one speaks at a time is Half-Duplex; browsing a website with simultaneous uploads/downloads over broadband is Full-Duplex.",
+                    "examQuestions": [
+                      {
+                        "question": "Differentiate between Simplex, Half-Duplex, and Full-Duplex communication with neat sketches and practical examples.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      },
+                      {
+                        "question": "Define Baud Rate and Bit Rate. Calculate the bit rate if a signal carries 4 bits in each signal unit and 1000 signal units are sent per second.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  },
+                  {
+                    "id": "dccn-u1-t2",
+                    "name": "Transmission Media and Multiplexing",
+                    "explanationEn": "Transmission media provide physical or atmospheric pathways for signal propagation. Guided media include Twisted Pair (UTP/STP for LAN), Coaxial cable (broadband/cable TV), and Optical Fiber (total internal reflection for ultra-high speeds). Unguided media utilize electromagnetic propagation via Radio waves, Microwaves, Infrared, and Satellite links. Multiplexing combines multiple analog or digital signals into a single shared medium using Frequency-Division Multiplexing (FDM) or Time-Division Multiplexing (TDM).",
+                    "explanationHi": "गाइडेड ट्रांसमिशन मीडिया (ट्विस्टेड-पेयर, समाक्षीय केबल, ऑप्टिकल फाइबर) भौतिक तारों के माध्यम से सिग्नल भेजते हैं, जबकि अनगाइडेड मीडिया (रेडियो, माइक्रोवेव, इन्फ्रारेड, सैटेलाइट) हवा के माध्यम से सिग्नल प्रसारित करते हैं। मल्टीप्लेक्सिंग (FDM और TDM) एक चैनल पर कई सिग्नल ले जाने की तकनीक है।",
+                    "technicalTerms": [
+                      "Guided Media",
+                      "Unguided Media",
+                      "Optical Fiber",
+                      "Total Internal Reflection",
+                      "FDM",
+                      "TDM"
+                    ],
+                    "realWorldExample": "Fiber-to-the-home (FTTH) broadband connections leverage optical fiber cables, while cellular phone networks share bandwidth using high-frequency radio waves multiplexed across user channels.",
+                    "examQuestions": [
+                      {
+                        "question": "Compare Twisted Pair Cable, Coaxial Cable, and Fiber Optic Cable on the basis of bandwidth, attenuation, and noise immunity.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Explain Frequency-Division Multiplexing (FDM) and Time-Division Multiplexing (TDM) with operational diagrams.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "dccn-u2",
+                "unitNumber": 2,
+                "title": "Data Link Layer",
+                "hours": 10,
+                "overviewEn": "Deals with node-to-node frame transmission, error detection and correction algorithms, sliding window protocols, medium access control (ALOHA, CSMA/CD, CSMA/CA), channelization schemes, and LAN switching architectures.",
+                "overviewHi": "डेटा लिंक लेयर में नोड-टू-नोड डिलीवरी, एरर डिटेक्शन और करेक्शन (CRC, हैमिंग कोड), फ्लो और एरर कंट्रोल प्रोटोकॉल (Stop-and-Wait, Go-Back-N, Selective Repeat), CSMA/CD और स्विचिंग डिवाइसेज शामिल हैं।",
+                "topics": [
+                  {
+                    "id": "dccn-u2-t1",
+                    "name": "Error Detection and Correction (Hamming Code and CRC)",
+                    "explanationEn": "Physical impairments induce bit corruptions. Redundancy bits are appended for detection and correction. Hamming distance measures the number of differing bits between codewords; minimum Hamming distance dictates detection/correction capacities. Cyclic Redundancy Check (CRC) utilizes polynomial division where the remainder serves as the frame check sequence. Checksum adds chunks of binary data using 1's complement arithmetic.",
+                    "explanationHi": "डेटा ट्रांसमिशन में त्रुटियों की पहचान और सुधार के लिए रिडंडेंसी बिट्स जोड़ी जाती हैं। साइक्लिक रिडंडेंसी चेक (CRC) बहुपद विभाजन का उपयोग करता है और हैमिंग कोड न्यूनतम हैमिंग दूरी के सिद्धांत से एरर सुधारता है।",
+                    "technicalTerms": [
+                      "Hamming Distance",
+                      "CRC Generator Polynomial",
+                      "Checksum",
+                      "Parity Bit",
+                      "1's Complement"
+                    ],
+                    "realWorldExample": "Ethernet frames append a 32-bit CRC (FCS) at the tail to instantly drop corrupted frames received by a network interface card without upper-layer CPU overhead.",
+                    "examQuestions": [
+                      {
+                        "question": "Given data bit sequence 1101011011 and generator polynomial G(x) = x^4 + x + 1, compute the transmitted CRC codeword.",
+                        "marks": 6,
+                        "type": "Numerical"
+                      },
+                      {
+                        "question": "Distinguish between error detection and error correction. Explain how minimum Hamming distance determines both capabilities.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  },
+                  {
+                    "id": "dccn-u2-t2",
+                    "name": "Flow & Error Control Protocols and MAC Schemes",
+                    "explanationEn": "Noiseless channels rely on Simplest and Stop-and-Wait mechanisms. Noisy channels introduce Automatic Repeat Request (ARQ) variants: Stop-and-Wait ARQ, Go-Back-N ARQ (sliding window where erroneous frame causes retransmission of all subsequent frames), and Selective Repeat ARQ (only flawed frames retransmitted). Random access MAC protocols resolve contention: Pure ALOHA, Slotted ALOHA, CSMA, CSMA/CD (used in half-duplex wired Ethernet), and CSMA/CA (used in 802.11 Wi-Fi).",
+                    "explanationHi": "नोइजी चैनल प्रोटोकॉल में स्टॉप-एंड-वेट ARQ, गो-बैक-N ARQ और सेलेक्टिव रिपीट ARQ शामिल हैं। रैंडम एक्सेस मीडिया में CSMA/CD (वायर्ड ईथरनेट कोलिजन डिटेक्शन) और CSMA/CA (वाई-फाई कोलिजन अवॉइडेंस) प्रमुख हैं।",
+                    "technicalTerms": [
+                      "Stop-and-Wait ARQ",
+                      "Go-Back-N",
+                      "Selective Repeat",
+                      "Piggybacking",
+                      "CSMA/CD",
+                      "CSMA/CA",
+                      "Binary Exponential Backoff"
+                    ],
+                    "realWorldExample": "Wi-Fi routers utilize CSMA/CA with RTS/CTS exchange to avoid radio signal collisions when multiple laptops attempt to transmit across the airwaves simultaneously.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain the working of Go-Back-N ARQ protocol and contrast it with Selective Repeat ARQ in terms of window size and buffer utilization.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Describe the operational steps of Carrier Sense Multiple Access with Collision Detection (CSMA/CD).",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "dccn-u3",
+                "unitNumber": 3,
+                "title": "Network Layer",
+                "hours": 15,
+                "overviewEn": "Covers end-to-end packet delivery, IPv4 addressing schemes, classful vs classless (CIDR) addressing, subnetting and supernetting mathematics, NAT, packet fragmentation, IPv6 basics, ARP/RARP, and IP routing algorithms.",
+                "overviewHi": "नेटवर्क लेयर एंड-टू-एंड पैकेट डिलीवरी, IPv4 एड्रेसिंग, सबनेटिंग और सुपरनेटिंग, NAT, पैकेट विखंडन (Fragmentation), IPv6, ARP/RARP और रूटिंग एल्गोरिदम को कवर करता है।",
+                "topics": [
+                  {
+                    "id": "dccn-u3-t1",
+                    "name": "IPv4 Addressing, Subnetting, and NAT",
+                    "explanationEn": "An IPv4 address is a 32-bit identifier divided into network and host segments. Classful addressing defines Classes A, B, C, D, and E. Subnetting subdivides large networks into smaller subnets using custom subnet masks, mitigating broadcast overhead and conserving addresses. Classless Inter-Domain Routing (CIDR) uses variable-length subnet masks (VLSM). Network Address Translation (NAT) maps multiple private IP addresses to a single public IP, conserving IPv4 space.",
+                    "explanationHi": "IPv4 एक 32-बिट एड्रेस है जिसे क्लास A, B, C, D, E में बांटा गया था। सबनेटिंग बड़े नेटवर्क को छोटे सबनेट्स में विभाजित करती है। NAT निजी (Private) आईपी को सार्वजनिक (Public) आईपी में बदलता है।",
+                    "technicalTerms": [
+                      "IPv4",
+                      "Subnet Mask",
+                      "CIDR",
+                      "VLSM",
+                      "NAT",
+                      "Private IP",
+                      "Public IP"
+                    ],
+                    "realWorldExample": "A college campus assigns private IPs (192.168.1.0/24) to 200 lab computers; when students browse the internet, the border router uses NAT to translate requests under one public ISP-assigned IP.",
+                    "examQuestions": [
+                      {
+                        "question": "An organization is granted the block 200.16.0.0/24. The administrator needs to create 4 subnets. Find the subnet mask, network address, and usable IP range for each subnet.",
+                        "marks": 8,
+                        "type": "Numerical"
+                      },
+                      {
+                        "question": "What is Network Address Translation (NAT)? Explain its advantages and operating mechanisms.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  },
+                  {
+                    "id": "dccn-u3-t2",
+                    "name": "IP Header, Fragmentation, ARP/RARP, and IPv6",
+                    "explanationEn": "The IPv4 datagram includes flags and offset fields to handle fragmentation when packet sizes exceed Maximum Transmission Unit (MTU). Address Resolution Protocol (ARP) translates logical IP addresses into physical MAC addresses via broadcast requests and unicast replies. RARP performs the inverse. IPv6 introduces 128-bit addresses, simplifies the header, removes checksums to accelerate forwarding, and supports dual-stack/tunneling for backward compatibility.",
+                    "explanationHi": "IPv4 हैडर में MTU से बड़े पैकेट्स को तोड़ने के लिए फ्रैग्मेंटेशन फ़ील्ड्स होते हैं। ARP आईपी एड्रेस को भौतिक MAC एड्रेस में बदलता है। IPv6 128-बिट एड्रेस स्पेस प्रदान करता है।",
+                    "technicalTerms": [
+                      "MTU",
+                      "Fragmentation Offset",
+                      "ARP",
+                      "RARP",
+                      "IPv6",
+                      "Dual-Stack",
+                      "Tunneling"
+                    ],
+                    "realWorldExample": "When a computer connects to a new Ethernet switch, it emits an ARP broadcast: 'Who has IP 192.168.1.1? Tell 192.168.1.100' to discover the router's physical MAC address.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain the step-by-step working of Address Resolution Protocol (ARP) with a scenario diagram.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Compare IPv4 and IPv6 headers. Why was IPv6 introduced?",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "dccn-u4",
+                "unitNumber": 4,
+                "title": "Transport Layer",
+                "hours": 8,
+                "overviewEn": "Examines process-to-process delivery, port numbering, connectionless UDP architecture vs connection-oriented TCP reliable streaming, TCP flow control, 3-way handshaking, and congestion mitigation schemes.",
+                "overviewHi": "प्रोसेस-टू-प्रोसेस डिलीवरी, पोर्ट नंबर्स, कनेक्शनलेस UDP बनाम कनेक्शन-ओरिएंटेड TCP, 3-वे हैंडशेक, फ्लो कंट्रोल (स्लाइडिंग विंडो), और कंजेशन कंट्रोल का विस्तृत अध्ययन।",
+                "topics": [
+                  {
+                    "id": "dccn-u4-t1",
+                    "name": "TCP vs UDP Protocols and Connection Management",
+                    "explanationEn": "The Transport layer achieves process-to-process communication using 16-bit port numbers. User Datagram Protocol (UDP) is connectionless, unreliable, lightweight, and lacks flow control—ideal for real-time traffic. Transmission Control Protocol (TCP) is connection-oriented, full-duplex, and reliable. TCP establishes sessions via a 3-Way Handshake (SYN, SYN-ACK, ACK) and terminates sessions via FIN-ACK handshakes, utilizing sequence and acknowledgment numbers for continuous byte-stream tracking.",
+                    "explanationHi": "ट्रांसपोर्ट लेयर पोर्ट नंबर के माध्यम से प्रोसेस-टू-प्रोसेस डिलीवरी करती है। UDP तेज लेकिन अविश्वसनीय (Unreliable) है, जबकि TCP कनेक्शन-ओरिएंटेड है और 3-वे हैंडशेक के माध्यम से विश्वसनीय संचार सुनिश्चित करता है।",
+                    "technicalTerms": [
+                      "Process-to-Process",
+                      "Port Number",
+                      "TCP 3-Way Handshake",
+                      "UDP Datagram",
+                      "Sequence Number",
+                      "Acknowledgment Number"
+                    ],
+                    "realWorldExample": "Video voice streaming over Discord or online multiplayer gaming uses UDP for low latency, whereas banking transactions and file downloads rely on TCP to prevent byte drops.",
+                    "examQuestions": [
+                      {
+                        "question": "Differentiate between TCP and UDP based on connection orientation, header overhead, reliability, and typical application protocols.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Illustrate the TCP Three-Way Handshake process during connection establishment.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  },
+                  {
+                    "id": "dccn-u4-t2",
+                    "name": "Flow Control and Congestion Control in TCP",
+                    "explanationEn": "Flow control prevents a fast sender from overwhelming a slow receiver using TCP's Sliding Window and receiver advertised window (rwnd). Congestion control prevents network pipeline collapse caused by packet queuing delays and drops across intermediate routers. Approaches include Open-Loop (prevention: retransmission policy, discarding) and Closed-Loop (reactive: Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery using cwnd thresholds).",
+                    "explanationHi": "फ्लो कंट्रोल रिसीवर बफर को भरने से रोकता है (rwnd द्वारा)। कंजेशन कंट्रोल नेटवर्क में ट्रैफिक जाम से बचाता है। इसमें स्लो स्टार्ट, कंजेशन अवॉइडेंस और फास्ट रीट्रांसमिट जैसी तकनीकें शामिल हैं।",
+                    "technicalTerms": [
+                      "Sliding Window",
+                      "rwnd",
+                      "cwnd",
+                      "Slow Start",
+                      "Congestion Avoidance",
+                      "Fast Retransmit",
+                      "Fast Recovery"
+                    ],
+                    "realWorldExample": "When a network suddenly drops packets due to peak congestion, TCP shrinks its congestion window (cwnd) exponentially to decrease the packet injection rate and preserve network integrity.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain TCP Slow Start and Congestion Avoidance algorithms with a graph illustrating cwnd progression over transmission rounds.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Distinguish between Open-Loop and Closed-Loop congestion control mechanisms.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "Medium"
+                  }
+                ]
+              },
+              {
+                "id": "dccn-u5",
+                "unitNumber": 5,
+                "title": "Application Layer",
+                "hours": 8,
+                "overviewEn": "Introduces high-level network services including Domain Name System (DNS) architecture and resolution, Web protocols (HTTP/HTTPS, persistent vs non-persistent connections, cookies, proxies), dynamic addressing via DHCP, Telnet, electronic mail pipelines (SMTP, POP3, IMAP), and FTP file transfers.",
+                "overviewHi": "DNS आर्किटेक्चर, वेब प्रोटोकॉल (HTTP/HTTPS, कुकीज, प्रॉक्सी सर्वर), DHCP, रिमोट लॉगिंग (Telnet), ईमेल आर्किटेक्चर (SMTP, POP3, IMAP) और FTP फाइल ट्रांसफर।",
+                "topics": [
+                  {
+                    "id": "dccn-u5-t1",
+                    "name": "DNS and Dynamic Host Configuration Protocol (DHCP)",
+                    "explanationEn": "DNS is a distributed hierarchical database mapping human-readable domain names to numerical IP addresses across Root, TLD, and Authoritative servers via Recursive or Iterative resolution. DHCP automates host network configuration dynamically by executing the DORA process: Discover (broadcast), Offer (unicast/broadcast from server), Request (client selection), and Acknowledgment (lease finalization with IP, gateway, DNS).",
+                    "explanationHi": "DNS एक पदानुक्रमित डेटाबेस है जो डोमेन नामों को आईपी में बदलता है। DHCP DORA प्रक्रिया (Discover, Offer, Request, Acknowledge) द्वारा कंप्यूटर को स्वचालित रूप से आईपी एड्रेस आवंटित करता है।",
+                    "technicalTerms": [
+                      "Hierarchical Namespace",
+                      "Recursive Resolution",
+                      "Iterative Resolution",
+                      "DHCP DORA",
+                      "Lease Time"
+                    ],
+                    "realWorldExample": "When you type 'google.com', your browser resolver contacts a recursive DNS server to find 142.250.190.46; when your smartphone joins a cafe Wi-Fi, DHCP instantly assigns it a local IP.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain Recursive and Iterative DNS resolution processes with diagrams.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Describe the 4-step DHCP DORA mechanism for dynamic host configuration.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  },
+                  {
+                    "id": "dccn-u5-t2",
+                    "name": "HTTP, Electronic Mail (SMTP/POP3/IMAP), and FTP",
+                    "explanationEn": "HTTP operates on client-server request-response architecture. Non-persistent HTTP closes the TCP connection after every object; persistent HTTP keeps connections open for multiple pipelined transfers. Cookies maintain stateful sessions. E-mail architecture splits tasks into Mail User Agent (MUA), Mail Transfer Agent (MTA) running SMTP to push emails between servers, and Mail Access Agents (POP3 downloads and removes; IMAP synchronizes remotely across multiple devices). FTP utilizes separate Control (Port 21) and Data (Port 20) channels.",
+                    "explanationHi": "HTTP वेब ब्राउज़िंग के लिए उपयोग होता है। ईमेल में SMTP सर्वर-टू-सर्वर मेल भेजने (Push) के लिए और POP3/IMAP मेल रिसीव (Pull) करने के लिए प्रयुक्त होते हैं। FTP पोर्ट 21 (कंट्रोल) और पोर्ट 20 (डेटा) का उपयोग करता है।",
+                    "technicalTerms": [
+                      "HTTP Persistent Connection",
+                      "Cookies",
+                      "Proxy Server",
+                      "SMTP",
+                      "POP3",
+                      "IMAP",
+                      "FTP Out-of-Band Control"
+                    ],
+                    "realWorldExample": "Gmail uses SMTP to transmit your sent email to Outlook's server; your smartphone mail app uses IMAP so that read emails stay synchronized across your phone and laptop.",
+                    "examQuestions": [
+                      {
+                        "question": "Compare POP3 and IMAP mail access protocols in terms of synchronization and offline accessibility.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      },
+                      {
+                        "question": "Why does FTP require two separate connections (Control and Data)? Explain its working architecture.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sub-se",
+            "name": "Software Engineering",
+            "code": "2418502",
+            "credits": 4,
+            "theoryHours": 48,
+            "practicalHours": 0,
+            "overviewEn": "Systematic engineering discipline emphasizing rigorous software lifecycle processes, requirement engineering (SRS), structural and behavioral design modeling, project metrics estimation (COCOMO, FP, LoC), risk management, testing methodologies, and project scheduling via CPM/PERT.",
+            "overviewHi": "सॉफ्टवेयर इंजीनियरिंग सॉफ्टवेयर विकास के सिद्धांतों, आवश्यकताओं के विश्लेषण (SRS), डिजाइन मॉडलिंग (DFD, UML), लागत और आकार अनुमान (COCOMO, फंक्शन पॉइंट्स), सॉफ्टवेयर टेस्टिंग और CPM/PERT प्रोजेक्ट शेड्यूलिंग को कवर करता है।",
+            "whyItMatters": "Writing ad-hoc code leads to project failure, budget overruns, and unmaintainable architectures. Software engineering ensures scalable, robust, and verifiable software built within strict schedules and resource budgets.",
+            "units": [
+              {
+                "id": "se-u1",
+                "unitNumber": 1,
+                "title": "Software Development Process",
+                "hours": 6,
+                "overviewEn": "Explores types of software, software engineering layered approach, prescriptive process models (Waterfall, Incremental, RAD, Spiral), and Agile methodologies (Scrum, Extreme Programming, Crystal).",
+                "overviewHi": "सॉफ्टवेयर के प्रकार, लेयर्ड एप्रोच, क्लासिकल प्रोसेस मॉडल (Waterfall, Spiral) और एजाइल फ्रेमवर्क (Scrum, XP) का अध्ययन।",
+                "topics": [
+                  {
+                    "id": "se-u1-t1",
+                    "name": "Software Process Framework & Prescriptive Models",
+                    "explanationEn": "Software engineering is a layered technology consisting of Quality focus, Process, Methods, and Tools. Prescriptive process models enforce structured engineering phases. Waterfall is sequential, suitable when requirements are fixed and well-understood. The Spiral model integrates explicit risk assessment loops in each phase. Incremental models deliver functional releases sequentially.",
+                    "explanationHi": "सॉफ्टवेयर इंजीनियरिंग क्वालिटी, प्रोसेस, मेथड्स और टूल्स पर आधारित लेयर्ड तकनीक है। वॉटरफॉल मॉडल निश्चित आवश्यकताओं के लिए उपयुक्त है, जबकि स्पाइरल मॉडल रिस्क एनालिसिस पर आधारित है।",
+                    "technicalTerms": [
+                      "Layered Technology",
+                      "Waterfall Model",
+                      "Incremental Model",
+                      "Spiral Model",
+                      "Risk Analysis"
+                    ],
+                    "realWorldExample": "Developing flight control software for avionics mandates a rigorous Waterfall or V-Model, where specifications are non-negotiable and safety verifications must be documented at each gate.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain the Spiral Model with a quadrant diagram and explain why it is recognized as a risk-driven model.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Under what software development scenarios is the classical Waterfall model preferred?",
+                        "marks": 3,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  },
+                  {
+                    "id": "se-u1-t2",
+                    "name": "Agile Software Development and Scrum",
+                    "explanationEn": "Agile methodologies value individuals and interactions, working software, customer collaboration, and responding to change over rigid documentation. Scrum utilizes short 2-4 week Sprints, daily standups, Sprint Planning, Product Backlogs, and Retrospectives led by a Scrum Master. Extreme Programming (XP) promotes pair programming, test-driven development (TDD), and continuous refactoring.",
+                    "explanationHi": "एजाइल मॉडल त्वरित बदलाव और ग्राहक सहयोग को प्राथमिकता देता है। स्क्रम में 2-4 सप्ताह के स्प्रिंट, प्रोडक्ट बैकलॉग और डेली स्टैंडअप मीटिंग्स के माध्यम से काम किया जाता है।",
+                    "technicalTerms": [
+                      "Agile Manifesto",
+                      "Scrum",
+                      "Sprint",
+                      "Product Backlog",
+                      "Scrum Master",
+                      "Extreme Programming (XP)"
+                    ],
+                    "realWorldExample": "A modern fintech startup releasing weekly mobile app updates operates in 2-week Scrum sprints to incorporate customer feedback quickly.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain the core ceremonies and roles in a Scrum framework (Product Owner, Scrum Master, Sprint Planning, Retrospective).",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "se-u2",
+                "unitNumber": 2,
+                "title": "Software Requirement Engineering",
+                "hours": 9,
+                "overviewEn": "Focuses on requirement elicitation, functional and non-functional requirements, use-case modeling, requirement negotiation, validation, and drafting structured Software Requirements Specifications (SRS) conforming to IEEE standards.",
+                "overviewHi": "आवश्यकता एकत्रण (Elicitation), फंक्शनल और नॉन-फंक्शनल आवश्यकताएं, यूज-केस मॉडलिंग और सॉफ्टवेयर रिक्वायरमेंट्स स्पेसिफिकेशन (SRS) का प्रारूप।",
+                "topics": [
+                  {
+                    "id": "se-u2-t1",
+                    "name": "Requirement Elicitation, Modeling, and SRS",
+                    "explanationEn": "Requirement Engineering comprises Inception, Elicitation (interviews, surveys, JAD), Elaboration, Negotiation, Specification, and Validation. Requirements are classified into Functional (system actions) and Non-Functional (performance, security, usability). The Software Requirements Specification (SRS) is a formal contract outlining complete system behavior, characterized by correctness, unambiguousness, completeness, consistency, and verifiability.",
+                    "explanationHi": "रिक्वायरमेंट इंजीनियरिंग में आवश्यकता जुटाना, विश्लेषण और सत्यापन शामिल है। SRS एक औपचारिक दस्तावेज है जो सिस्टम की कार्यात्मक और गैर-कार्यात्मक आवश्यकताओं को परिभाषित करता है।",
+                    "technicalTerms": [
+                      "Elicitation",
+                      "Functional Requirements",
+                      "Non-Functional Requirements",
+                      "SRS",
+                      "Traceability",
+                      "IEEE 830"
+                    ],
+                    "realWorldExample": "In an ATM system, 'Debit account balance on cash dispense' is a functional requirement, whereas 'Process transaction within 2 seconds with 256-bit encryption' is a non-functional requirement.",
+                    "examQuestions": [
+                      {
+                        "question": "What is an SRS? Explain any five desirable characteristics of a good Software Requirements Specification document.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Differentiate between Functional and Non-Functional requirements with two examples of each.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "se-u3",
+                "unitNumber": 3,
+                "title": "Software Modeling and Design",
+                "hours": 10,
+                "overviewEn": "Examines translation of requirements into architectural and data designs, core principles (abstraction, modularity, information hiding), Data Flow Diagrams (DFDs), structure flowcharts, and decision tables.",
+                "overviewHi": "सिस्टम डिजाइन सिद्धांत (एब्स्ट्रैक्शन, मॉड्यूलरिटी, इंफॉर्मेशन हाइडिंग), डेटा फ्लो डायग्राम (DFD) और डिसीजन टेबल्स।",
+                "topics": [
+                  {
+                    "id": "se-u3-t1",
+                    "name": "Design Concepts and Data Flow Diagrams (DFD)",
+                    "explanationEn": "Fundamental design concepts include Abstraction, Modularity (high cohesion, low coupling), Information Hiding, and Software Architecture. A Data Flow Diagram (DFD) models the graphical flow of data through an information system. DFD components include External Entities (squares), Processes (circles/rounded rectangles), Data Stores (open rectangles), and Data Flows (directed arrows). Systems are refined hierarchically from Context Level (Level 0) down to Levels 1 and 2.",
+                    "explanationHi": "सॉफ्टवेयर डिजाइन में मॉड्यूलरिटी (हाई कोहेसन और लो कपलिंग) जरूरी है। डेटा फ्लो डायग्राम (DFD) सिस्टम के भीतर डेटा के प्रवाह और प्रोसेसिंग को चित्रों के माध्यम से दर्शाता है।",
+                    "technicalTerms": [
+                      "Cohesion",
+                      "Coupling",
+                      "Abstraction",
+                      "Information Hiding",
+                      "DFD",
+                      "Context Level Diagram"
+                    ],
+                    "realWorldExample": "Designing an Online Bookstore involves a Level-0 Context DFD showing Customer and Payment Gateway entities exchanging order data with the main E-Commerce Engine.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain Cohesion and Coupling. Why is high cohesion and low coupling desired in software design?",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Draw Level-0 and Level-1 Data Flow Diagrams (DFD) for a Library Management System.",
+                        "marks": 8,
+                        "type": "Long Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "se-u4",
+                "unitNumber": 4,
+                "title": "Software Project Estimation",
+                "hours": 9,
+                "overviewEn": "Covers management 4P spectrum (People, Product, Process, Project), size estimation (LoC and Function Points), empirical estimation using COCOMO I & II, and Risk Management strategies (RMMM).",
+                "overviewHi": "सॉफ्टवेयर प्रोजेक्ट एस्टीमेशन, LoC, फंक्शन पॉइंट्स (FP), COCOMO मॉडल, और रिस्क मैनेजमेंट (RMMM रणनीति)।",
+                "topics": [
+                  {
+                    "id": "se-u4-t1",
+                    "name": "Metrics, COCOMO Model, and RMMM Strategy",
+                    "explanationEn": "Software metrics quantify attributes: Lines of Code (LoC) measures volume, while Function Points (FP) measures functionality delivered based on inputs, outputs, inquiries, internal files, and external interfaces. The Constructive Cost Model (COCOMO) estimates effort (Person-Months) and development time across Organic, Semidetached, and Embedded modes: Effort = a*(KLoC)^b. Risk Mitigation, Monitoring, and Management (RMMM) details steps to avert, track, and handle software contingencies.",
+                    "explanationHi": "सॉफ्टवेयर साइज मापने के लिए LoC और FP का उपयोग होता है। COCOMO मॉडल प्रोजेक्ट में लगने वाले समय और लागत का अनुमान लगाता है। RMMM रिस्क से निपटने की रणनीति है।",
+                    "technicalTerms": [
+                      "Lines of Code (LoC)",
+                      "Function Points (FP)",
+                      "COCOMO",
+                      "Person-Months",
+                      "RMMM Strategy",
+                      "Risk Containment"
+                    ],
+                    "realWorldExample": "Before developing an enterprise banking portal of 50 KLoC, managers use COCOMO equations to determine that the project needs 14 software engineers for 9 months.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain Basic COCOMO model. Differentiate between Organic, Semidetached, and Embedded software projects.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "What is the RMMM Plan? Explain Risk Mitigation, Monitoring, and Management with an industry example.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "se-u5",
+                "unitNumber": 5,
+                "title": "Software Testing and Quality Assurance",
+                "hours": 7,
+                "overviewEn": "Details software verification and validation, Black-box and White-box testing, unit/integration/system testing, test case documentation, defect reporting, SQA activities, and quality standards (CMMI, ISO, Six Sigma).",
+                "overviewHi": "सॉफ्टवेयर टेस्टिंग (ब्लैक-बॉक्स, व्हाइट-बॉक्स), टेस्ट केस डिजाइन, डिफेक्ट रिपोर्टिंग, सॉफ्टवेयर क्वालिटी एश्योरेंस (SQA), और CMMI / ISO मानक।",
+                "topics": [
+                  {
+                    "id": "se-u5-t1",
+                    "name": "Testing Techniques, Test Documentation, and SQA",
+                    "explanationEn": "Testing executes software to reveal defects. Black-Box Testing examines external functionality without internal code knowledge (Equivalence Partitioning, Boundary Value Analysis). White-Box Testing evaluates internal logic paths (Basis Path Testing, Cyclomatic Complexity). Levels include Unit, Integration, System, and Acceptance Testing. Software Quality Assurance (SQA) enforces organizational audits, defect tracking, and process adherence (CMMI Levels 1 to 5).",
+                    "explanationHi": "ब्लैक-बॉक्स टेस्टिंग में कोड देखे बिना इनपुट-आउटपुट जांचा जाता है, जबकि व्हाइट-बॉक्स में आंतरिक कोड लॉजिक टेस्ट होता है। CMMI और ISO सॉफ्टवेयर की गुणवत्ता सुनिश्चित करते हैं।",
+                    "technicalTerms": [
+                      "Black-Box Testing",
+                      "White-Box Testing",
+                      "Boundary Value Analysis",
+                      "Cyclomatic Complexity",
+                      "Test Case Template",
+                      "CMMI",
+                      "SQA"
+                    ],
+                    "realWorldExample": "Testing a login password field that requires 8-16 characters by submitting 7, 8, 16, and 17 characters is an application of Boundary Value Analysis.",
+                    "examQuestions": [
+                      {
+                        "question": "Differentiate between Black-Box and White-Box testing. Explain Boundary Value Analysis with an example.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Explain the five maturity levels of Capability Maturity Model Integration (CMMI).",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "se-u6",
+                "unitNumber": 6,
+                "title": "Software Project Management",
+                "hours": 7,
+                "overviewEn": "Addresses project scheduling principles, Work Breakdown Structures (WBS), Activity Networks, Critical Path Method (CPM), PERT techniques, timeline charts (Gantt charts), and Earned Value Analysis for progress tracking.",
+                "overviewHi": "प्रोजेक्ट शेड्यूलिंग, वर्क ब्रेकडाउन स्ट्रक्चर (WBS), क्रिटिकल पाथ मेथड (CPM), PERT चार्ट, गैंट चार्ट (Gantt Charts) और प्रोजेक्ट ट्रैकिंग तकनीकें।",
+                "topics": [
+                  {
+                    "id": "se-u6-t1",
+                    "name": "Project Scheduling, CPM/PERT, and Gantt Charts",
+                    "explanationEn": "Project management deconstructs software initiatives into hierarchical tasks using Work Breakdown Structure (WBS). The Critical Path Method (CPM) finds the longest sequence of dependent activities having zero slack/float, establishing the absolute minimum project completion time. PERT incorporates probabilistic three-point duration estimates. Gantt charts visually map milestone timelines, resource allocations, and real-time execution progress.",
+                    "explanationHi": "WBS प्रोजेक्ट को छोटे कार्यों में विभाजित करता है। क्रिटिकल पाथ मेथड (CPM) प्रोजेक्ट पूरा करने के सबसे लंबे रास्ते और न्यूनतम आवश्यक समय को निर्धारित करता है। गैंट चार्ट समय सारिणी को ट्रैक करता है।",
+                    "technicalTerms": [
+                      "WBS",
+                      "Activity Network",
+                      "Critical Path Method (CPM)",
+                      "PERT",
+                      "Slack Time",
+                      "Gantt Chart",
+                      "Earned Value Analysis"
+                    ],
+                    "realWorldExample": "A project manager uses a Gantt Chart in Jira to confirm that the database migration task is on the critical path; any 2-day delay on that task directly postpones the app launch date.",
+                    "examQuestions": [
+                      {
+                        "question": "Given an activity network with task dependencies and durations, determine the Critical Path and total project completion time.",
+                        "marks": 6,
+                        "type": "Numerical"
+                      },
+                      {
+                        "question": "Explain the significance of Work Breakdown Structure (WBS) and Gantt Charts in tracking software progress.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "Medium"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sub-dwdm",
+            "name": "Data Science: Data Warehousing and Data Mining",
+            "code": "2418503A",
+            "credits": 6,
+            "theoryHours": 48,
+            "practicalHours": 64,
+            "overviewEn": "A program elective establishing competencies in analytical databases and knowledge discovery. Covers data warehouse architectures (Star/Snowflake schema, OLAP cubes), data preprocessing (cleaning, transformation, reduction), classification algorithms (Decision Trees, Naive Bayes), and clustering algorithms (K-Means, Hierarchical).",
+            "overviewHi": "डेटा वेयरहाउसिंग और डेटा माइनिंग का यह कोर्स एनालिटिकल डेटाबेस, OLAP क्यूब्स, डेटा प्री-प्रोसेसिंग (क्लीनिंग, ट्रांसफॉर्मेशन), क्लासिफिकेशन (डिसीजन ट्री, नेव बेयस) और क्लस्टरिंग (K-मीन्स) तकनीकों को सिखाता है।",
+            "whyItMatters": "Enterprises generate petabytes of transactional records. Data warehousing organizes historical information for reporting, while data mining extracts predictive patterns and strategic business intelligence.",
+            "units": [
+              {
+                "id": "dwdm-u1",
+                "unitNumber": 1,
+                "title": "Data Warehousing and OLAP Technology",
+                "hours": 12,
+                "overviewEn": "Differentiates OLTP and OLAP systems, explores operational data store (ODS) and multi-tiered data warehouse architectures, multidimensional data models (Star, Snowflake, Fact Constellation schemas), and OLAP operations (Roll-up, Drill-down, Slice, Dice, Pivot).",
+                "overviewHi": "OLTP और OLAP में अंतर, डेटा वेयरहाउस आर्किटेक्चर, स्टार और स्नोफ्लेक स्कीमा, और OLAP ऑपरेशंस (Roll-up, Drill-down, Slice, Dice)।",
+                "topics": [
+                  {
+                    "id": "dwdm-u1-t1",
+                    "name": "Data Warehouse Architecture and Multidimensional Data Models",
+                    "explanationEn": "A Data Warehouse is a subject-oriented, integrated, time-variant, and non-volatile collection of data used for managerial decisions. It differs from OLTP (transaction-focused, normalized) by being OLAP-focused (query/analysis-focused, denormalized). Multidimensional modeling relies on fact tables (containing numerical metrics) surrounded by dimension tables (descriptive attributes). Schemas include Star Schema (single centralized fact with denormalized dimensions), Snowflake Schema (dimensions normalized into sub-tables), and Fact Constellation.",
+                    "explanationHi": "डेटा वेयरहाउस एक सब्जेक्ट-ओरिएंटेड, इंटीग्रेटेड और नॉन-वोलेटाइल डेटा रिपॉजिटरी है। स्टार स्कीमा में केंद्रीय फैक्ट टेबल होती है जिसके चारों ओर डायमेंशन टेबल जुड़ी होती हैं।",
+                    "technicalTerms": [
+                      "OLTP vs OLAP",
+                      "Fact Table",
+                      "Dimension Table",
+                      "Star Schema",
+                      "Snowflake Schema",
+                      "Fact Constellation",
+                      "Data Mart"
+                    ],
+                    "realWorldExample": "Walmart aggregates point-of-sale receipt facts with Product, Store Location, and Date dimensions to analyze annual festive sales patterns.",
+                    "examQuestions": [
+                      {
+                        "question": "Differentiate between Operational Database Systems (OLTP) and Data Warehouses (OLAP) across at least 5 parameters.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Explain Star Schema and Snowflake Schema with neat illustrative database schema diagrams.",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "dwdm-u2",
+                "unitNumber": 2,
+                "title": "Data Preprocessing Techniques",
+                "hours": 10,
+                "overviewEn": "Emphasizes the necessity of clean data in KDD, detailing Data Cleaning (handling missing values and noisy data), Data Integration, Data Transformation (normalization, aggregation), and Data Reduction (dimensionality and numerosity reduction).",
+                "overviewHi": "नॉलेज डिस्कवरी के लिए डेटा प्री-प्रोसेसिंग: डेटा क्लीनिंग (मिसिंग वैल्यूज, नॉइज़ हटाना), डेटा ट्रांसफॉर्मेशन (नॉर्मलाइजेशन), और डेटा रिडक्शन (PCA, बिनिंग)।",
+                "topics": [
+                  {
+                    "id": "dwdm-u2-t1",
+                    "name": "Data Cleaning, Transformation, and Reduction",
+                    "explanationEn": "Raw real-world data is dirty: incomplete, noisy, and inconsistent. Preprocessing prepares data for machine learning. Data Cleaning handles missing values (imputation via mean/mode/regression) and smooths noisy data via binning, clustering, or regression. Data Transformation normalizes scales using Min-Max Normalization ((v - min)/(max - min)) or Z-score normalization. Data Reduction reduces representation volume via Principal Component Analysis (PCA), feature selection, and sampling.",
+                    "explanationHi": "डेटा क्लीनिंग में छूटे हुए मान भरना और नॉइज़ दूर करना शामिल है। डेटा ट्रांसफॉर्मेशन में मिन-मैक्स नॉर्मलाइजेशन द्वारा डेटा को एक समान स्केल (0 से 1) पर लाया जाता है।",
+                    "technicalTerms": [
+                      "Data Cleaning",
+                      "Binning",
+                      "Min-Max Normalization",
+                      "Z-Score Normalization",
+                      "Dimensionality Reduction",
+                      "PCA"
+                    ],
+                    "realWorldExample": "Scaling income (range 10,000 to 1,000,000) and age (range 18 to 80) to between [0, 1] so that large income values do not disproportionately distort machine learning distance calculations.",
+                    "examQuestions": [
+                      {
+                        "question": "Given raw dataset values [13, 15, 16, 16, 19, 20, 20, 21, 22, 22, 25, 30], demonstrate smoothing by bin means using bin depth 3.",
+                        "marks": 6,
+                        "type": "Numerical"
+                      },
+                      {
+                        "question": "Explain Min-Max Normalization and Z-Score Normalization with mathematical formulas.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              },
+              {
+                "id": "dwdm-u3",
+                "unitNumber": 3,
+                "title": "Data Mining: Classification and Clustering",
+                "hours": 14,
+                "overviewEn": "Explores supervised predictive classification models including Decision Tree Induction (Information Gain, Gini Index) and Naive Bayes, alongside unsupervised clustering techniques like K-Means and agglomerative hierarchical clustering.",
+                "overviewHi": "सुपरवाइज्ड क्लासिफिकेशन (डिसीजन ट्री, इन्फॉर्मेशन गेन, नेव बेयस क्लासिफायर) और अनसुपरवाइज्ड क्लस्टरिंग (K-मीन्स एल्गोरिदम)।",
+                "topics": [
+                  {
+                    "id": "dwdm-u3-t1",
+                    "name": "Classification (Decision Trees & Naive Bayes) and K-Means Clustering",
+                    "explanationEn": "Classification predicts discrete class labels for unseen instances. Decision Tree algorithms (ID3/C4.5) use Information Gain based on Entropy to select split attributes. Naive Bayes classification computes posterior probabilities using Bayes' Theorem under conditional independence assumptions. Clustering groups unlabeled data points so that intra-cluster similarity is maximized and inter-cluster similarity is minimized. K-Means partitions data into k clusters iteratively by recomputing centroid means until convergence.",
+                    "explanationHi": "क्लासिफिकेशन (डिसीजन ट्री और नेव बेयस) डेटा के क्लास लेबल की भविष्यवाणी करता है। K-मीन्स क्लस्टरिंग बिना लेबल वाले डेटा को सेंट्रोइड दूरी के आधार पर k समूहों में बांटता है।",
+                    "technicalTerms": [
+                      "Decision Tree",
+                      "Entropy",
+                      "Information Gain",
+                      "Naive Bayes",
+                      "Clustering",
+                      "K-Means",
+                      "Centroid",
+                      "Euclidean Distance"
+                    ],
+                    "realWorldExample": "Banks run Naive Bayes classifiers to evaluate whether loan applicants are 'High Risk' or 'Low Risk', and run K-Means to discover distinct customer spending archetypes for targeted credit card marketing.",
+                    "examQuestions": [
+                      {
+                        "question": "Explain the step-by-step algorithm of K-Means clustering. What are its limitations regarding outlier sensitivity?",
+                        "marks": 6,
+                        "type": "Long Answer"
+                      },
+                      {
+                        "question": "Define Entropy and Information Gain in the context of Decision Tree Induction.",
+                        "marks": 4,
+                        "type": "Short Answer"
+                      }
+                    ],
+                    "importance": "High"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "practicals": [
+          {
+            "id": "prac-dccn-1",
+            "subjectName": "Data Communication and Computer Network",
+            "title": "Identification of Network Devices and Preparation of UTP Cables",
+            "experimentNumber": 1,
+            "objective": "Identify networking hardware (NIC, Hub, Switch, Router) and crimp straight-through and crossover UTP cables according to EIA/TIA 568A and 568B standards.",
+            "preLabConcepts": "Pinout diagrams of T568A and T568B, color coding of 8-wire twisted pairs, RJ-45 jacks, difference between crossover and straight cables.",
+            "requiredTools": "Cat-5e/Cat-6 UTP cable, RJ-45 connectors, Crimping Tool, Wire stripper, Network Cable Tester.",
+            "prepChecklist": [
+              "Inspect crimping tool blades",
+              "Verify RJ-45 connector pin integrity",
+              "Ensure network cable tester battery is charged"
+            ],
+            "isCompulsory": true
+          },
+          {
+            "id": "prac-dccn-2",
+            "subjectName": "Data Communication and Computer Network",
+            "title": "Creation of Star Topology and Wireless NIC File Transfer",
+            "experimentNumber": 2,
+            "objective": "Build a wired Local Area Network using Star topology connected through a central Switch, and configure an Ad-hoc/Infrastructure Wi-Fi connection to transmit files.",
+            "preLabConcepts": "Star topology hub-and-spoke advantages, collision domains, SSID, WPA2 pre-shared keys, file sharing permissions.",
+            "requiredTools": "Desktop PCs / Laptops, Ethernet Switch (8/16 port), UTP Straight cables, Wireless NIC cards.",
+            "prepChecklist": [
+              "Power on the central switch",
+              "Verify link status LEDs upon cable insertion",
+              "Enable network file discovery in operating system"
+            ],
+            "isCompulsory": true
+          },
+          {
+            "id": "prac-dccn-3",
+            "subjectName": "Data Communication and Computer Network",
+            "title": "Host IP Configuration and Peer-to-Peer Connection Setup",
+            "experimentNumber": 3,
+            "objective": "Configure static IPv4 addresses, subnet masks, and default gateways in Windows/Linux, and link two computers back-to-back using a crossover cable.",
+            "preLabConcepts": "IPv4 addressing, Default Subnet Masks (Class C: 255.255.255.0), ICMP Ping utility, ARP resolution.",
+            "requiredTools": "Two desktop/laptop workstations, Crossover UTP cable, Command Prompt / Terminal.",
+            "prepChecklist": [
+              "Ensure both workstations share the identical subnet ID",
+              "Temporarily allow ICMP Echo Request in the firewall",
+              "Run 'ping' to confirm end-to-end packet exchange"
+            ],
+            "isCompulsory": true
+          },
+          {
+            "id": "prac-dccn-4",
+            "subjectName": "Data Communication and Computer Network",
+            "title": "Packet Capture & Protocol Header Analysis and Telnet Configuration",
+            "experimentNumber": 4,
+            "objective": "Capture live network packets using Wireshark / Cisco Packet Tracer, dissect TCP/IP protocol headers, and establish a remote terminal connection using Telnet.",
+            "preLabConcepts": "Packet sniffing, promiscuous mode, Ethernet frame header, IPv4 header flags, TCP header sequence flags, Port 23 operation.",
+            "requiredTools": "Workstation with Wireshark installed, Cisco Packet Tracer, Telnet client/daemon.",
+            "prepChecklist": [
+              "Verify Wireshark capture interface privileges (WinPcap/Npcap)",
+              "Enable Telnet Client feature in Windows optional features",
+              "Apply Wireshark display filters such as 'ip.addr == target'"
+            ],
+            "isCompulsory": true
+          },
+          {
+            "id": "prac-dccn-5",
+            "subjectName": "Data Communication and Computer Network",
+            "title": "Creation and Configuration of HTTP and FTP Servers",
+            "experimentNumber": 5,
+            "objective": "Set up a local HTTP web server and an FTP server to host web pages and manage remote file upload and download directories.",
+            "preLabConcepts": "Client-server architecture, HTTP port 80/8080, FTP control port 21 & data port 20, IIS / Apache / FileZilla configuration.",
+            "requiredTools": "Server software (Apache/IIS/XAMPP, FileZilla Server), Client web browser, FTP Client (FileZilla Client/WinSCP).",
+            "prepChecklist": [
+              "Ensure port 80 and port 21 are open in local firewall",
+              "Create sample index.html page in root directory",
+              "Configure read/write credentials for FTP test user"
+            ],
+            "isCompulsory": true
+          }
+        ],
+        "termWork": [
+          {
+            "id": "tw-dccn",
+            "title": "Term Work & Continuous Assessment for DCCN (S2418501)",
+            "subjectName": "Data Communication and Computer Network",
+            "componentType": "Lab Records, Micro-Project, and Technical Assignments",
+            "guidelines": "Students must maintain a neat laboratory practical record, complete analytical assignments on subnetting and error control calculations, complete a networking micro-project, and present a technical seminar. Assessment is structured as 40% internal continuous evaluation and 60% external evaluation.",
+            "estimatedMarks": 50
+          },
+          {
+            "id": "tw-se",
+            "title": "Term Work & Technical Portfolio for Software Engineering (S2418502)",
+            "subjectName": "Software Engineering",
+            "componentType": "Case Study SRS, UML Models, Testing Reports, and Micro-Project",
+            "guidelines": "Students must formulate a full IEEE 830 compliant SRS document for an allotted domain, build DFD and UML diagrams using CASE tools, devise test plans with test case matrices, construct Gantt charts using project management software, and present seminar topics. Evaluated 40% internally and 60% externally.",
+            "estimatedMarks": 50
+          },
+          {
+            "id": "tw-internship",
+            "title": "Summer Internship-II / Industrial Training Portfolio (2418506)",
+            "subjectName": "Summer Internship- II",
+            "componentType": "Industrial Training Diary & Technical Project Report",
+            "guidelines": "Documentation of industrial training carried out after the 4th semester. Must include company profile, technology stack studied, real-world development tasks completed, certificate of completion, and formal viva defense.",
+            "estimatedMarks": 50
+          },
+          {
+            "id": "tw-minor-project",
+            "title": "Minor Project Phase Documentation (2418507)",
+            "subjectName": "Minor Project",
+            "componentType": "Problem Definition, System Design, Prototype Demonstration",
+            "guidelines": "Team-based execution of a preliminary computer engineering software/hardware project. Requires literature survey, synopsis submission, architectural modeling, baseline prototype code, and final project demonstration.",
+            "estimatedMarks": 25
+          }
+        ],
+        "microProjects": [
+          {
+            "id": "mp-dccn-1",
+            "subjectName": "Data Communication and Computer Network",
+            "title": "Local Subnet Socket-Based Multi-Client Chat Application",
+            "description": "Design and build a client-server chat program running over TCP/IP sockets allowing multiple peer workstations within the computer lab to exchange encrypted text broadcasts and unicast direct messages.",
+            "officialRequirements": "Implement process-to-process communication using socket programming, bind host IP and port numbers, manage multi-threaded client connections, and handle clean socket closures.",
+            "stages": [
+              "Requirements definition and protocol packet structure design",
+              "Implementation of multi-threaded TCP server socket in Python/Java",
+              "Client UI creation and LAN connectivity testing",
+              "Traffic validation using Wireshark packet capture analysis",
+              "Report compilation and viva presentation"
+            ],
+            "suggestedAiProjects": [
+              "AI-assisted LAN anomaly traffic detector using Python scapy and Random Forest",
+              "Automated subnet calculator bot using large language model prompts"
+            ]
+          },
+          {
+            "id": "mp-dccn-2",
+            "subjectName": "Data Communication and Computer Network",
+            "title": "Real-Time Network Bandwidth & Latency Monitor Tool",
+            "description": "Develop a lightweight network utility that captures real-time throughput (bytes sent/received), packet loss, and round-trip ping latency across a local network adapter, rendering real-time graphs.",
+            "officialRequirements": "Use networking APIs or command interfaces to poll adapter metrics, log historical usage, and display bandwidth utilization metrics.",
+            "stages": [
+              "Select programming framework (e.g., Python psutil, scapy)",
+              "Build background metric sampler measuring transmit/receive rates",
+              "Integrate graphical desktop or web visualization dashboard",
+              "Stress test with high-traffic downloads to confirm accuracy",
+              "Documentation and demonstration"
+            ],
+            "suggestedAiProjects": [
+              "Predictive bandwidth saturation forecaster using LSTM time-series models",
+              "Smart QoS optimizer prioritizing packets using heuristic learning"
+            ]
+          },
+          {
+            "id": "mp-se-1",
+            "subjectName": "Software Engineering",
+            "title": "Comprehensive SRS, UML Modeling & Automated Testing for Health Clinic System",
+            "description": "Formulate a complete IEEE-standard Software Requirement Specification (SRS) for a Patient Appointment and Health Records system, build complete DFDs/UML diagrams, and run automated Selenium test scripts.",
+            "officialRequirements": "Complete requirement elicitation, produce SRS document, build Level 0/1 DFDs, design test case suite with boundary value analysis, execute automated tests using Selenium/JUnit, and build CPM/Gantt timeline.",
+            "stages": [
+              "Problem analysis and elicitation of functional/non-functional requirements",
+              "Drafting SRS document adhering to IEEE 830 format",
+              "Modeling system flows via DFDs and UML structural diagrams",
+              "Drafting test plan and executing automated test scripts",
+              "Project scheduling using Gantt charts in Jira/MS Project and final submission"
+            ],
+            "suggestedAiProjects": [
+              "LLM-powered automated test-case generator from raw user stories",
+              "AI defect severity classifier using historical bug tracking datasets"
+            ]
+          }
+        ],
+        "assessment": {
+          "internalMarks": 360,
+          "externalMarks": 640,
+          "examPattern": "For theory courses with 70 End Theory marks (ETA): 3 hours written examination consisting of objective/multiple-choice questions, short-answer questions (4-6 marks), and detailed analytical/numerical long-answer questions (6-8 marks) covering all 5-6 units. Progressive Theory Assessment (PTA) consists of 30 marks calculated via mid-term tests, class quizzes, and continuous evaluation.",
+          "evaluationCriteria": "Theory courses (e.g., DCCN: 200 marks total) break down into: PTA = 30 marks, ETA = 70 marks, Term Work = 50 marks (20 internal + 30 external), Lab Assessment = 50 marks (20 PLA + 30 ELA). Term work is split strictly into 40% internal guide assessment and 60% external examiner assessment based on rubrics (Process 40%, Product 50%, Viva-voce 10%).",
+          "studyStrategyAdvice": "Focus heavily on numerical problems and step-by-step algorithms: in DCCN, master Subnetting math (CIDR/VLSM), CRC polynomial divisions, and the TCP 3-Way Handshake flow. In Software Engineering, master drawing clear DFD Level 0/1 diagrams, calculating COCOMO effort equations, and solving Critical Path Method (CPM) networks. Maintain clean lab records and prepare for practical viva by memorizing port numbers, cable color codes, and Wireshark capture filters."
+        }
+      },
+      "storagePath": "/app/applet/uploads/syllabi/syl_1791603984060_xjphj-5th-sem-Computer-Science-Engineering-2024__1_.pdf",
+      "createdAt": "2026-10-10T03:48:43.467Z",
+      "updatedAt": "2026-10-10T03:48:45.625Z"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "prac_demo_1",
+      "userId": "guest_student",
+      "subjectName": "Java Programming",
+      "experimentNumber": "1",
+      "title": "Implementation of Multithreading & Synchronization in Java",
+      "description": "Producer-consumer problem using Thread class and synchronized keyword.",
+      "requiredTools": "JDK 17+, IntelliJ IDEA",
+      "status": "in_progress",
+      "isCompulsory": true,
+      "updatedAt": "2026-10-10T05:46:07.550Z",
+      "createdAt": "2026-10-10T05:46:07.550Z"
+    }
+  ],
+  "curriculumProgress": {}
+}
